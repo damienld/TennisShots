@@ -1,2 +1,5 @@
 
 .ipynb_checkpoints/intro_plotly-checkpoint.ipynb
+*.xlsx
+*.csv
+*.mp4
