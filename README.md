@@ -25,8 +25,9 @@ The potential mistakes include:
 In order to correct this we use 2 data source:
 - the official score evolution which can check if the result of the point as identified by the shot by data is correct
 - the video
+
 The data can be corrected either from
 - a Tkinter client app 
-- ![](https://github.com/damienld/TennisShots/blob/main/img/readme/tkinter.png)
+ ![](https://github.com/damienld/TennisShots/blob/main/img/readme/tkinter.png)
 - the "Video_correction" notebook with IWidget and plotly dataviz
-- ![](https://github.com/damienld/TennisShots/blob/main/img/readme/video_correction.png)
+ ![](https://github.com/damienld/TennisShots/blob/main/img/readme/video_correction.png)
