@@ -1,0 +1,565 @@
+,Player,Shot,Type,Stroke,Spin,Speed (KM/H),Point,Game,Set,Bounce Depth,Bounce Zone,Bounce Side,Bounce (x),Bounce (y),Hit Depth,Hit Zone,Hit Side,Hit (x),Hit (y),Hit (z),Direction,Result,Favorited,Start Time,Video Time,Winner_Point,ResultOld,Bounce (x)Old,Bounce (y)Old,Hit (x)Old,Hit (y)Old,Result2,Bounce (x)2,Bounce (y)2,Hit (x)2,Hit (y)2,comment
+0,Opponent,1,serve,Serve,Flat,45,1,0,0,service_box,deuce,near,0.673611,6.069643,service_box,deuce,far,0.03474,23.147434,1.782537,down the T,In,False,12:52:11,376.880005,1,,,,,,,,,,,
+1,Player,2,return,Backhand,Topspin,71,1,0,0,no_mans_land,deuce,far,-0.563671,20.129652,no_mans_land,deuce,near,0.732187,2.605795,1.18876,inside out,In,False,12:52:13,378.839996,1,,,,,,,,,,,
+2,Opponent,3,serve_plus_one,Forehand,Topspin,92,1,0,0,service_box,deuce_alley,near,3.61,5.9,no_mans_land,deuce,far,-0.44,24.3,1.17547,down the line,In,False,12:52:14,380.079987,1,Out,4.918346,5.901061,-0.444902,24.295805,In,3.61,5.9,-0.44,24.3,
+3,Player,4,return_plus_one,Forehand,Topspin,86,1,0,0,no_mans_land,deuce,far,-1.725623,18.908596,out,deuce,near,3.332222,-1.157217,0.984504,cross court,In,False,12:52:16,381.380005,1,,,,,,,,,,,
+4,Opponent,5,in_play,Forehand,Flat,76,1,0,0,no_mans_land,ad_out,near,-3.61,5.42,no_mans_land,deuce,far,-2.56,24.18,1.050716,down the line,In,False,12:52:17,382.600006,1,Out,-5.699294,5.424789,-2.559764,24.177385,In,-3.61,5.42,-2.56,24.18,
+5,Player,6,in_play,Backhand,Topspin,88,1,0,0,service_box,deuce,far,-2.055449,18.07309,out,ad,near,-3.7902,-1.271771,0.566739,down the line,In,False,12:52:18,384.0,1,,,,,,,,,,,
+6,Opponent,0,in_play,Backhand,Slice,57,1,0,0,service_box,deuce,far,-2.583506,11.88,service_box,deuce,far,-2.055449,19.281878,1.504562,inside out,Net,False,12:52:19,384.980011,1,,,,,,,,,,,
+7,Opponent,1,serve,Serve,Flat,176,2,0,0,service_box,ad,near,-3.56,7.15,no_mans_land,ad,far,0.42,23.18,1.933399,out wide,Let,False,12:52:45,410.440002,-1,In,-3.559114,7.150344,0.41723,23.177294,Let,-3.56,7.15,0.42,23.18,
+8,Opponent,1,serve,Serve,Flat,141,3,0,0,service_box,ad,near,-0.111559,5.709128,no_mans_land,ad,far,0.156736,24.281759,2.547004,down the T,In,False,12:53:06,431.700012,0,,,,,,,,,,,
+9,Player,0,return,Forehand,Flat,55,3,0,0,service_box,deuce,near,0.570962,11.88,no_mans_land,ad,near,-0.041765,1.364851,0.866928,inside in,Net,False,12:53:07,432.420013,0,,,,,,,,,,,
+10,Opponent,1,serve,Serve,Flat,56,4,0,0,service_box,deuce,near,0.566801,6.83622,no_mans_land,deuce,far,-0.482208,23.494743,2.677943,down the T,In,False,12:53:27,453.079987,0,,,,,,,,,,,
+11,Player,2,return,Backhand,Flat,76,4,0,0,no_mans_land,deuce,far,-1.823696,20.595491,no_mans_land,deuce,near,0.902255,0.224892,1.043566,inside out,In,False,12:53:29,454.459991,0,,,,,,,,,,,
+12,Opponent,3,serve_plus_one,Forehand,Topspin,67,4,0,0,service_box,ad,near,-2.846333,6.908273,out,deuce,far,-2.240715,25.564264,0.947904,down the line,In,False,12:53:30,455.880005,0,,,,,,,,,,,
+13,Player,4,return_plus_one,Backhand,Topspin,92,4,0,0,no_mans_land,deuce,far,-1.594855,18.898529,no_mans_land,ad,near,-3.505791,-0.341208,0.671989,down the line,In,False,12:53:32,457.5,0,,,,,,,,,,,
+14,Opponent,5,in_play,Forehand,Flat,104,4,0,0,service_box,deuce,near,1.334773,6.477829,out,deuce,far,-1.397572,25.80258,0.848119,cross court,In,False,12:53:33,458.700012,0,,,,,,,,,,,
+15,Player,6,in_play,Forehand,Topspin,81,4,0,0,no_mans_land,ad,far,1.07894,20.10157,no_mans_land,deuce,near,2.079365,-0.200426,0.939925,down the line,In,False,12:53:34,459.839996,0,,,,,,,,,,,
+16,Opponent,7,in_play,Backhand,Topspin,96,4,0,0,service_box,ad,near,-1.751333,7.140079,out,ad,far,0.904214,25.323412,0.998319,cross court,In,False,12:53:35,461.079987,0,,,,,,,,,,,
+17,Player,8,in_play,Backhand,Topspin,72,4,0,0,no_mans_land,ad,far,0.59919,20.904154,no_mans_land,ad,near,-2.868842,0.119044,0.711418,cross court,In,False,12:53:37,462.160004,0,,,,,,,,,,,
+18,Opponent,9,in_play,Forehand,Topspin,90,4,0,0,no_mans_land,ad,near,-0.499928,4.211486,out,ad,far,1.559518,25.827509,1.23172,inside out,In,False,12:53:38,463.679993,0,,,,,,,,,,,
+19,Player,10,in_play,Backhand,Topspin,74,4,0,0,service_box,ad,far,1.824177,14.896366,no_mans_land,ad,near,-0.813996,-0.163209,0.686397,cross court,In,False,12:53:40,465.220001,0,,,,,,,,,,,
+20,Opponent,11,in_play,Backhand,Flat,106,4,0,0,no_mans_land,deuce,near,0.122001,4.419918,out,ad,far,2.993965,25.201548,0.974625,down the line,In,False,12:53:41,466.73999,0,,,,,,,,,,,
+21,Player,12,in_play,Forehand,Topspin,76,4,0,0,no_mans_land,ad,far,2.694589,18.435833,no_mans_land,ad,near,-0.052871,0.019649,0.737161,inside out,In,False,12:53:42,468.079987,0,,,,,,,,,,,
+22,Opponent,13,in_play,Backhand,Topspin,101,4,0,0,no_mans_land,ad,near,-0.379779,4.260846,no_mans_land,ad,far,3.607097,24.452803,1.092853,cross court,In,False,12:53:44,469.480011,0,,,,,,,,,,,
+23,Player,14,in_play,Forehand,Topspin,83,4,0,0,no_mans_land,ad,far,0.848132,20.987303,out,ad,near,-1.721694,-0.88963,0.823915,inside out,In,False,12:53:45,470.76001,0,,,,,,,,,,,
+24,Opponent,15,in_play,Backhand,Flat,109,4,0,0,no_mans_land,deuce,near,2.825714,3.986123,no_mans_land,ad,far,1.582918,24.836422,0.920964,down the line,In,False,12:53:46,472.059998,0,,,,,,,,,,,
+25,Player,16,in_play,Forehand,Topspin,74,4,0,0,service_box,deuce,near,1.660974,11.88,out,deuce,near,3.32534,-1.143567,0.587749,cross court,Net,False,12:53:48,473.320007,0,,,,,,,,,,,
+26,Player,-1,serve,Serve,Flat,129,5,0,0,service_box,ad,near,-3.449309,11.88,out,deuce,near,-3.807562,0.242112,5.530475,out wide,Net,False,12:54:15,500.880005,0,,,,,,,,,,,invalid
+27,Player,-2,return,Backhand,Topspin,48,5,0,0,service_box,ad,near,-1.14297,11.88,service_box,ad,near,-3.157796,5.840619,1.554996,cross court,Net,False,12:54:16,501.779999,0,,,,,,,,,,,invalid
+28,Opponent,1,serve,Serve,Flat,137,6,0,0,service_box,deuce,near,3.161424,5.871282,no_mans_land,deuce,far,-0.796504,24.325268,2.624331,out wide,In,False,12:54:43,528.179993,0,,,,,,,,,,,
+29,Player,0,return,Forehand,Flat,91,6,0,0,no_mans_land,ad,far,0.853661,20.378166,no_mans_land,deuce_alley,near,4.649304,0.245373,1.115248,down the line,In,False,12:54:43,529.0,0,,,,,,,,,,,
+30,Opponent,0,serve_plus_one,Backhand,Topspin,89,6,0,0,out,ad,far,0.408057,11.88,no_mans_land,ad,far,0.853661,21.586954,0.983652,cross court,Net,False,12:54:44,529.780029,0,,,,,,,,,,,
+31,Player,0,serve,Serve,Kick,119,8,0,0,service_box,ad,far,0.316775,11.88,no_mans_land,ad,far,0.316775,24.041895,0.838384,down the T,Net,False,12:55:11,556.280029,0,,,,,,,,,,,cancelled
+32,Opponent,0,return,Forehand,Topspin,82,8,0,0,service_box,ad,far,0.08256,16.920166,service_box,ad,near,-0.131091,9.147067,1.414687,inside out,In,False,12:55:12,557.179993,0,,,,,,,,,,,cancelled
+33,Opponent,0,serve,Serve,Kick,100,9,0,0,service_box,ad,far,0.016268,16.347977,service_box,deuce,near,0.016548,0.056108,2.126614,down the T,Out,False,12:55:13,559.080017,1,,,,,,,,,,,cancelled
+34,Player,0,return,Backhand,Topspin,80,9,0,0,service_box,deuce,near,1.105323,6.82876,no_mans_land,ad,far,0.100189,20.037592,0.862325,down the line,In,False,12:55:15,560.179993,1,,,,,,,,,,,cancelled
+35,Player,1,serve,Serve,Flat,52,10,0,0,no_mans_land,ad,near,-0.171248,4.151048,no_mans_land,deuce,far,-1.401954,23.375246,2.499588,down the T,Out,False,12:55:34,579.880005,-1,,,,,,,,,,,swapped srv
+36,Player,1,serve,Serve,Flat,47,11,0,0,service_box,deuce,near,1.431976,6.162167,no_mans_land,deuce,far,-1.471896,23.894045,2.45776,down the T,In,False,12:55:58,603.580017,0,,,,,,,,,,,swapped srv
+37,Opponent,2,return,Forehand,Flat,82,11,0,0,no_mans_land,ad,far,0.225725,20.057369,out,deuce,near,2.406281,-0.920808,1.220286,down the line,In,False,12:56:00,605.52002,0,,,,,,,,,,,swapped srv
+38,Player,3,serve_plus_one,Forehand,Flat,78,11,0,0,service_box,ad,near,-3.1871,6.20518,out,deuce,far,-0.32755,25.463688,0.935311,down the line,In,False,12:56:01,606.900024,0,,,,,,,,,,,swapped srv
+39,Opponent,4,return_plus_one,Backhand,Flat,86,11,0,0,no_mans_land,ad,far,1.722265,19.560848,out,ad_alley,near,-4.456384,-0.685478,0.595861,down the line,In,False,12:56:03,608.26001,0,,,,,,,,,,,swapped srv
+40,Player,5,in_play,Backhand,Topspin,96,11,0,0,no_mans_land,ad,near,-1.397542,3.474708,out,ad,far,2.157526,25.246851,1.041537,cross court,In,False,12:56:04,609.580017,0,,,,,,,,,,,swapped srv
+41,Opponent,6,in_play,Backhand,Flat,90,11,0,0,no_mans_land,ad,far,1.120308,18.416807,no_mans_land,ad,near,-2.064565,-0.244425,0.750537,cross court,In,False,12:56:05,610.599976,0,,,,,,,,,,,swapped srv
+42,Player,7,in_play,Backhand,Flat,87,11,0,0,no_mans_land,ad,near,-4.61,2.41,out,ad,far,2.11,25.05,0.915084,cross court,Out,False,12:56:06,611.799988,0,In,-2.36447,2.413386,2.10733,25.047503,Out,-4.61,2.41,2.11,25.05,swapped srv
+43,Player,1,serve,Serve,Flat,133,12,0,0,service_box,ad,near,0.5,6.87,no_mans_land,ad,far,0.62,23.68,2.325066,down the T,Out,False,12:56:24,629.919983,-1,In,-0.38578,6.867726,0.619659,23.678053,Out,0.5,6.87,0.62,23.68,swapped srv
+44,Player,1,serve,Serve,Flat,121,13,0,0,service_box,ad,near,-2.168949,5.878427,no_mans_land,ad,far,0.524657,22.927532,2.526663,down the T,In,False,12:56:35,640.960022,1,,,,,,,,,,,swapped srv
+45,Opponent,2,return,Forehand,Topspin,87,13,0,0,no_mans_land,ad,far,1.229307,18.496273,out,ad,near,-2.92528,-1.169119,1.143778,inside out,In,False,12:56:36,642.02002,1,,,,,,,,,,,swapped srv
+46,Player,3,serve_plus_one,Backhand,Topspin,85,13,0,0,service_box,ad,near,-1.444818,6.218572,out,ad,far,1.744452,25.93162,1.133259,cross court,In,False,12:56:38,643.380005,1,,,,,,,,,,,swapped srv
+47,Opponent,4,return_plus_one,Backhand,Flat,86,13,0,0,no_mans_land,deuce,far,-1.289514,18.438148,no_mans_land,ad,near,-1.785998,0.490226,0.879005,down the line,In,False,12:56:39,644.419983,1,,,,,,,,,,,swapped srv
+48,Player,5,in_play,Forehand,Topspin,79,13,0,0,service_box,ad,near,-2.29832,7.877698,no_mans_land,deuce,far,-1.797495,24.693748,1.080909,down the line,In,False,12:56:40,645.679993,1,,,,,,,,,,,swapped srv
+49,Opponent,6,in_play,Backhand,Flat,77,13,0,0,no_mans_land,ad,far,1.742399,20.332403,no_mans_land,ad,near,-2.221083,0.864671,0.873927,cross court,In,False,12:56:41,646.719971,1,,,,,,,,,,,swapped srv
+50,Player,7,in_play,Backhand,Flat,93,13,0,0,service_box,ad,near,-0.800683,6.561992,out,ad,far,2.485239,25.604683,1.174679,cross court,In,False,12:56:43,648.23999,1,,,,,,,,,,,swapped srv
+51,Opponent,8,in_play,Backhand,Topspin,67,13,0,0,no_mans_land,ad,far,1.11,24.23,no_mans_land,ad,near,-1.2,0.79,1.016685,cross court,Out,False,12:56:44,649.280029,1,In,1.105323,21.295212,-1.203625,0.785501,Out,1.11,24.23,-1.2,0.79,swapped srv
+52,Player,0,none,Forehand,Flat,87,14,0,0,no_mans_land,deuce,far,-1.35891,23.06992,no_mans_land,deuce,near,0.321405,0.936636,1.707098,cross court,In,False,12:56:52,657.820007,1,,,,,,,,,,,
+53,Player,1,serve,Serve,Flat,119,15,0,0,service_box,ad,far,3.486096,11.88,no_mans_land,deuce,far,-1.35891,24.278708,2.545452,out wide,Net,False,12:57:08,673.380005,-1,,,,,,,,,,,swapped srv
+54,Player,1,serve,Serve,Slice,56,16,0,0,service_box,deuce,near,1.397848,6.846193,no_mans_land,deuce,far,-1.198277,24.415806,2.91775,down the T,In,False,12:57:18,683.460022,1,,,,,,,,,,,swapped srv
+55,Opponent,2,return,Forehand,Flat,87,16,0,0,no_mans_land,ad,far,1.53,24.23,no_mans_land,deuce,near,1.91,-0.05,1.149564,down the line,Out,False,12:57:20,685.159973,1,In,1.533076,21.718388,1.908999,-0.054372,Out,1.53,24.23,1.91,-0.05,swapped srv
+56,Player,1,serve,Serve,Flat,166,17,0,0,service_box,ad,near,-3.619113,6.362315,out,ad,far,0.959712,25.060539,2.568828,out wide,In,False,12:57:37,703.059998,0,,,,,,,,,,,swapped srv
+57,Opponent,2,return,Backhand,Flat,100,17,0,0,no_mans_land,deuce,far,-1.218256,22.377008,out,ad_alley,near,-4.410083,-0.556458,0.921859,down the line,In,False,12:57:38,703.719971,0,,,,,,,,,,,swapped srv
+58,Player,3,serve_plus_one,Forehand,Topspin,95,17,0,0,no_mans_land,deuce,far,-1.126751,11.88,no_mans_land,deuce,far,-1.218256,23.585796,0.401628,cross court,Net,False,12:57:39,704.580017,0,,,,,,,,,,,swapped srv
+59,Opponent,0,return_plus_one,Backhand,Flat,109,17,0,0,out,deuce,near,2.070601,-0.301801,no_mans_land,deuce,far,-0.720006,24.575399,1.165694,inside out,Out,False,12:57:40,705.47998,0,,,,,,,,,,,swapped srv
+60,Player,1,serve,Serve,Slice,106,18,0,0,service_box,deuce,near,4.61,5.92,no_mans_land,deuce,far,-1.25,24.51,2.705745,out wide,Out,False,12:58:02,727.659973,-1,In,3.915009,5.916289,-1.25346,24.509888,Out,4.61,5.92,-1.25,24.51,swapped srv
+61,Player,1,serve,Serve,Flat,46,19,0,0,service_box,deuce,near,2.021809,7.193664,out,deuce,far,-1.816424,25.018927,2.578414,down the T,In,False,12:58:12,737.679993,0,,,,,,,,,,,swapped srv
+62,Opponent,2,return,Forehand,Topspin,70,19,0,0,no_mans_land,ad,far,0.522251,19.166372,out,deuce,near,3.3651,-1.209575,1.178157,down the line,In,False,12:58:14,739.859985,0,,,,,,,,,,,swapped srv
+63,Player,3,serve_plus_one,Backhand,Flat,87,19,0,0,service_box,ad,near,-2.601129,6.472188,no_mans_land,deuce,far,-0.760591,24.927528,1.340733,inside in,In,False,12:58:16,741.400024,0,,,,,,,,,,,swapped srv
+64,Opponent,4,return_plus_one,Backhand,Flat,82,19,0,0,service_box,ad,far,1.748336,15.067181,no_mans_land,ad_alley,near,-4.23888,-0.507289,0.763681,down the line,In,False,12:58:17,742.820007,0,,,,,,,,,,,swapped srv
+65,Player,5,in_play,Backhand,Topspin,91,19,0,0,no_mans_land,ad,near,-2.775966,4.384004,no_mans_land,ad,far,4.051191,24.083921,1.04582,cross court,In,False,12:58:19,744.380005,0,,,,,,,,,,,swapped srv
+66,Opponent,6,in_play,Backhand,Topspin,88,19,0,0,no_mans_land,deuce,far,-1.299623,21.262892,no_mans_land,ad_alley,near,-4.437253,0.42926,0.693916,down the line,In,False,12:58:20,745.47998,0,,,,,,,,,,,swapped srv
+67,Player,7,in_play,Forehand,Topspin,65,19,0,0,no_mans_land,ad,near,-2.78228,4.649304,no_mans_land,deuce,far,-0.679268,24.359285,1.338651,down the line,In,False,12:58:22,747.280029,0,,,,,,,,,,,swapped srv
+68,Opponent,8,in_play,Backhand,Flat,86,19,0,0,no_mans_land,ad,far,1.65866,18.73196,no_mans_land,ad,near,-3.696536,-0.272876,1.002404,cross court,In,False,12:58:23,748.880005,0,,,,,,,,,,,swapped srv
+69,Player,9,in_play,Backhand,Flat,77,19,0,0,service_box,deuce,far,-0.557335,11.88,no_mans_land,ad,far,2.856531,24.854141,1.058722,down the line,Net,False,12:58:24,750.039978,0,,,,,,,,,,,swapped srv
+70,Player,1,serve,Serve,Slice,152,20,0,0,service_box,ad,near,-3.074288,6.984945,no_mans_land,ad,far,0.509655,23.314812,2.496193,out wide,In,False,12:58:52,777.880005,1,,,,,,,,,,,swapped srv
+71,Opponent,2,return,Backhand,Flat,73,20,0,0,no_mans_land,deuce,far,-0.893117,20.078465,out,ad_alley,near,-4.780454,-0.635273,0.887344,down the line,In,False,12:58:53,778.700012,1,,,,,,,,,,,swapped srv
+72,Player,3,serve_plus_one,Forehand,Flat,110,20,0,0,service_box,ad,near,-2.525861,7.662744,out,deuce,far,-0.193256,26.367445,1.068285,down the line,In,False,12:58:55,780.23999,1,,,,,,,,,,,swapped srv
+73,Opponent,4,return_plus_one,Backhand,Flat,82,20,0,0,service_box,ad,far,2.37361,16.54705,no_mans_land,ad,near,-3.631356,-0.392171,0.569537,cross court,In,False,12:58:56,781.580017,1,,,,,,,,,,,swapped srv
+74,Player,5,in_play,Backhand,Flat,102,20,0,0,no_mans_land,ad,near,-2.449906,5.1456,no_mans_land,ad,far,4.075854,24.763338,0.847082,cross court,In,False,12:58:57,783.080017,1,,,,,,,,,,,swapped srv
+75,Opponent,6,in_play,Backhand,Flat,86,20,0,0,service_box,deuce,near,1.133404,11.88,no_mans_land,ad,near,-3.536263,-0.322073,0.809484,down the line,Net,False,12:58:59,784.219971,1,,,,,,,,,,,swapped srv
+76,Player,1,serve,Serve,Flat,52,22,0,0,service_box,deuce,near,1.257919,5.631284,no_mans_land,deuce,far,-1.753208,24.851679,2.694554,down the T,In,False,12:59:25,810.580017,1,,,,,,,,,,,swapped srv
+77,Opponent,2,return,Backhand,Flat,67,22,0,0,no_mans_land,ad,far,1.856097,18.601179,no_mans_land,deuce,near,1.182457,0.995765,0.986925,inside in,In,False,12:59:27,812.320007,1,,,,,,,,,,,swapped srv
+78,Player,3,serve_plus_one,Backhand,Topspin,117,22,0,0,no_mans_land,ad,near,-1.244919,4.714723,out,ad,far,2.012729,25.09037,0.918236,cross court,In,False,12:59:28,813.97998,1,,,,,,,,,,,swapped srv
+79,Opponent,4,return_plus_one,Backhand,Flat,94,22,0,0,service_box,deuce,far,-0.966748,17.841873,no_mans_land,ad,near,-2.082496,0.558309,0.816707,down the line,In,False,12:59:30,815.179993,1,,,,,,,,,,,swapped srv
+80,Player,5,in_play,Forehand,Topspin,106,22,0,0,no_mans_land,ad,near,-1.354884,5.213271,no_mans_land,deuce,far,-1.03717,24.969185,0.960207,down the line,In,False,12:59:31,816.380005,1,,,,,,,,,,,swapped srv
+81,Opponent,6,in_play,Backhand,Flat,83,22,0,0,service_box,ad,near,-1.465819,11.88,no_mans_land,ad,near,-1.948474,0.664653,0.79917,cross court,Net,False,12:59:32,817.380005,1,,,,,,,,,,,swapped srv
+82,Player,1,serve,Serve,Flat,137,23,0,0,service_box,ad,near,-3.90397,5.773529,no_mans_land,ad,far,0.767486,24.835941,2.507197,out wide,In,False,12:59:50,835.26001,1,,,,,,,,,,,swapped srv
+83,Opponent,2,return,Backhand,Flat,84,23,0,0,no_mans_land,deuce,far,-0.830371,20.636568,out,ad_alley,near,-5.249174,-1.251455,0.932504,down the line,In,False,12:59:51,836.179993,1,,,,,,,,,,,swapped srv
+84,Player,3,serve_plus_one,Forehand,Topspin,94,23,0,0,service_box,ad,near,-2.962983,6.218572,out,deuce,far,-0.422339,26.62471,1.10461,down the line,In,False,12:59:52,837.679993,1,,,,,,,,,,,swapped srv
+85,Opponent,4,return_plus_one,Backhand,Flat,69,23,0,0,service_box,deuce,far,-1.12263,16.810352,no_mans_land,ad,near,-3.666131,-0.126914,0.727144,down the line,In,False,12:59:53,838.820007,1,,,,,,,,,,,swapped srv
+86,Player,5,in_play,Forehand,Topspin,116,23,0,0,no_mans_land,deuce,near,1.444144,4.238247,no_mans_land,deuce,far,-0.692446,24.525717,0.893839,cross court,In,False,12:59:55,840.380005,1,,,,,,,,,,,swapped srv
+87,Opponent,6,in_play,Forehand,Topspin,56,23,0,0,service_box,ad,far,1.134493,13.274677,no_mans_land,deuce,near,1.900459,0.813469,0.974123,down the line,In,False,12:59:56,841.340027,1,,,,,,,,,,,swapped srv
+88,Player,7,in_play,Backhand,Topspin,67,23,0,0,service_box,ad,near,-3.238947,5.842364,no_mans_land,ad,far,0.439136,23.857428,0.896767,cross court,In,False,12:59:57,842.780029,1,,,,,,,,,,,swapped srv
+89,Opponent,8,in_play,Backhand,Flat,87,23,0,0,service_box,ad,far,1.353331,17.902,no_mans_land,ad,near,-3.319321,0.327964,0.948245,cross court,In,False,12:59:58,844.080017,1,,,,,,,,,,,swapped srv
+90,Player,9,in_play,Backhand,Topspin,93,23,0,0,no_mans_land,ad,near,-0.691805,4.849701,no_mans_land,ad,far,1.634544,24.536936,1.146633,cross court,In,False,13:00:00,845.280029,1,,,,,,,,,,,swapped srv
+91,Opponent,10,in_play,Forehand,Flat,81,23,0,0,service_box,deuce,near,2.603558,11.88,no_mans_land,ad,near,-1.44276,0.094879,1.006591,inside in,Net,False,13:00:01,846.460022,1,,,,,,,,,,,swapped srv
+92,Opponent,1,serve,Serve,Slice,138,24,0,0,service_box,deuce,far,-3.530235,17.932035,service_box,deuce,near,-0.617,0.149675,2.437769,out wide,In,False,13:00:41,886.340027,1,,,,,,,,,,,swapped srv
+93,Player,2,return,Forehand,Flat,117,24,0,0,no_mans_land,deuce,near,1.388814,4.444242,out,deuce_alley,far,-5.478131,25.180122,1.086406,down the line,In,False,13:00:42,887.23999,1,,,,,,,,,,,swapped srv
+94,Opponent,3,serve_plus_one,Forehand,Flat,63,24,0,0,service_box,ad,far,2.240823,16.87496,no_mans_land,deuce,near,3.092227,1.524325,0.855847,down the line,In,False,13:00:42,888.119995,1,,,,,,,,,,,swapped srv
+95,Player,4,return_plus_one,Backhand,Topspin,115,24,0,0,no_mans_land,ad,near,-1.724077,3.379342,out,ad,far,2.099034,25.136339,0.86957,cross court,In,False,13:00:44,889.880005,1,,,,,,,,,,,swapped srv
+96,Opponent,5,in_play,Backhand,Topspin,65,24,0,0,no_mans_land,deuce_alley,far,-4.744647,19.984018,no_mans_land,ad,near,-2.399353,1.600596,0.712368,down the line,Out,False,13:00:45,890.679993,1,,,,,,,,,,,swapped srv
+97,Opponent,1,serve,Serve,Slice,112,25,0,0,service_box,ad,far,2.795676,14.110868,no_mans_land,ad,near,0.009341,0.451157,2.439449,out wide,In,False,13:01:07,913.119995,0,,,,,,,,,,,swapped srv
+98,Player,2,return,Backhand,Topspin,69,25,0,0,service_box,ad,near,-0.198628,7.341613,no_mans_land,ad_alley,far,4.454415,24.17058,1.019543,down the line,In,False,13:01:08,913.880005,0,,,,,,,,,,,swapped srv
+99,Opponent,3,serve_plus_one,Backhand,Slice,48,25,0,0,no_mans_land,deuce,far,-2.577185,20.584057,service_box,ad,near,-0.198628,6.816366,0.123082,down the line,In,False,13:01:09,914.679993,0,,,,,,,,,,,swapped srv
+100,Player,4,return_plus_one,Forehand,Flat,97,25,0,0,service_box,ad,near,-2.104879,10.232456,out,deuce,far,-3.025735,25.00279,0.820797,down the line,In,False,13:01:10,916.02002,0,,,,,,,,,,,swapped srv
+101,Opponent,5,in_play,BH Volley,Flat,31,25,0,0,service_box,deuce,far,-0.711928,16.318314,service_box,ad,near,-2.104879,9.70721,1.402669,down the line,In,False,13:01:11,916.580017,0,,,,,,,,,,,swapped srv
+102,Player,0,serve,Serve,Flat,112,26,0,0,service_box,ad,far,2.295552,12.671641,no_mans_land,ad,near,0.341822,0.044284,2.268275,out wide,In,False,13:01:22,927.679993,1,,,,,,,,,,,cancelled
+103,Opponent,0,return,Backhand,Topspin,84,26,0,0,out,deuce,near,0.993035,-0.814102,service_box,ad,far,0.364076,13.077637,1.66355,down the line,Out,False,13:01:24,929.679993,1,,,,,,,,,,,cancelled
+104,Opponent,1,serve,Serve,Slice,148,27,0,0,service_box,deuce,far,-4.61,15.92,no_mans_land,deuce,near,0.57,1.0,2.569196,out wide,Out,False,13:01:38,943.400024,-2,In,-2.607653,15.923069,0.572343,1.000173,Out,-4.61,15.92,0.57,1.0,swapped srv
+105,Opponent,1,serve,Serve,Slice,137,28,0,0,service_box,deuce,far,-1.222616,17.051685,no_mans_land,deuce,near,0.393222,0.741558,2.559019,down the T,In,False,13:01:49,954.820007,1,,,,,,,,,,,swapped srv
+106,Player,2,return,Backhand,Flat,68,28,0,0,no_mans_land,deuce,near,2.043908,4.519553,no_mans_land,deuce,far,-2.59028,24.564238,1.500628,inside out,In,False,13:01:50,955.679993,1,,,,,,,,,,,swapped srv
+107,Opponent,3,serve_plus_one,Forehand,Topspin,88,28,0,0,service_box,deuce,near,2.584535,11.88,no_mans_land,deuce,near,2.389672,1.774531,1.217577,cross court,Net,False,13:01:52,957.280029,1,,,,,,,,,,,swapped srv
+108,Opponent,1,serve,Serve,Slice,120,29,0,0,service_box,ad,far,0.219533,18.113634,no_mans_land,ad,near,-0.385008,0.237077,2.45292,down the T,In,False,13:02:21,986.299988,0,,,,,,,,,,,swapped srv
+109,Player,2,return,Forehand,Flat,57,29,0,0,no_mans_land,deuce,near,4.61,3.04,out,ad,far,0.95,25.5,1.480448,inside in,Out,False,13:02:21,987.119995,0,In,1.171008,3.044661,0.954968,25.496679,Out,4.61,3.04,0.95,25.5,swapped srv
+110,Opponent,1,serve,Serve,Slice,139,31,0,0,service_box,deuce,far,-1.112698,16.686085,no_mans_land,deuce,near,0.484498,0.914271,2.419362,down the T,In,False,13:02:46,1011.159973,0,,,,,,,,,,,swapped srv
+111,Player,2,return,Backhand,Topspin,89,31,0,0,service_box,deuce,far,-1.924714,11.88,no_mans_land,deuce,far,-2.454193,24.105253,1.170962,inside out,Net,False,13:02:46,1011.880005,0,,,,,,,,,,,swapped srv
+112,Opponent,1,serve,Serve,Slice,120,32,0,0,no_mans_land,ad_alley,far,4.890707,19.316137,no_mans_land,ad,near,-0.367641,0.781389,2.547046,out wide,Out,False,13:03:11,1036.459961,-2,,,,,,,,,,,swapped srv
+113,Opponent,1,serve,Serve,Kick,108,33,0,0,service_box,ad,far,2.702682,15.435098,no_mans_land,ad,near,-0.152738,1.095419,2.224204,out wide,In,False,13:03:22,1047.920044,0,,,,,,,,,,,swapped srv
+114,Player,2,return,Backhand,Topspin,102,33,0,0,service_box,deuce,far,-0.231391,11.88,no_mans_land,ad_alley,far,4.3591,24.184935,1.405661,down the line,Net,False,13:03:23,1048.880005,0,,,,,,,,,,,swapped srv
+115,Player,1,serve,Serve,Slice,134,34,0,0,service_box,ad,near,-1.660287,11.88,no_mans_land,deuce,near,0.927555,0.577551,2.521573,out wide,Net,False,13:05:17,1162.359985,-1,,,,,,,,,,,
+116,Player,1,serve,Serve,Slice,100,35,0,0,service_box,deuce,far,-1.561983,16.960621,no_mans_land,deuce,near,0.783598,-0.182376,2.552452,down the T,In,False,13:05:25,1170.719971,0,,,,,,,,,,,
+117,Opponent,2,return,Forehand,Flat,84,35,0,0,no_mans_land,ad,near,-3.543185,1.616271,no_mans_land,deuce,far,-3.264679,24.330317,1.190578,down the line,In,False,13:05:26,1171.800049,0,,,,,,,,,,,
+118,Player,3,serve_plus_one,Backhand,Slice,63,35,0,0,service_box,deuce,near,1.361753,11.88,out,ad,near,-3.688007,-0.80191,0.873527,down the line,Net,False,13:05:27,1173.060059,0,,,,,,,,,,,
+119,Player,0,return_plus_one,Forehand,Topspin,73,35,0,0,no_mans_land,deuce,near,0.313936,11.88,out,ad,near,-0.082693,-1.768355,2.210874,inside in,Net,False,13:05:31,1177.079956,0,,,,,,,,,,,
+120,Player,0,none,Forehand,Topspin,74,36,0,0,service_box,deuce,near,2.00716,11.88,out,deuce,near,0.313936,-0.957558,2.372162,cross court,Net,False,13:05:32,1177.880005,0,,,,,,,,,,,
+121,Player,1,serve,Serve,Slice,114,37,0,0,service_box,ad,far,0.788599,16.559086,no_mans_land,ad,near,-1.162864,0.579157,2.284121,down the T,In,False,13:05:46,1191.660034,1,,,,,,,,,,,
+122,Opponent,2,return,Forehand,Topspin,56,37,0,0,service_box,deuce,near,2.809603,6.38011,no_mans_land,ad,far,1.304271,23.733305,1.378444,inside in,In,False,13:05:47,1192.380005,1,,,,,,,,,,,
+123,Player,3,serve_plus_one,Forehand,Topspin,95,37,0,0,no_mans_land,deuce,far,-2.791737,18.57095,no_mans_land,deuce,near,2.974225,1.047684,0.90786,cross court,In,False,13:05:49,1194.359985,1,,,,,,,,,,,
+124,Opponent,4,return_plus_one,Forehand,Topspin,80,37,0,0,no_mans_land,deuce,near,4.61,2.94,out,deuce,far,-4.08,26.15,1.03615,cross court,Out,False,13:05:50,1195.47998,1,In,3.42127,2.941874,-4.080945,26.148178,Out,4.61,2.94,-4.08,26.15,
+125,Player,1,serve,Serve,Slice,118,38,0,0,service_box,deuce,far,0.5,15.86,no_mans_land,deuce,near,0.97,0.12,2.573814,down the T,Out,False,13:06:12,1217.219971,-1,In,-0.180107,15.858108,0.969378,0.118452,Out,0.5,15.86,0.97,0.12,
+126,Opponent,0,none,Backhand,Slice,60,39,0,0,no_mans_land,deuce,near,1.175834,0.845367,out,deuce,far,-1.656294,25.749149,1.673862,inside out,In,False,13:06:13,1218.180054,0,,,,,,,,,,,
+127,Player,1,serve,Serve,Kick,119,40,0,0,service_box,deuce,far,-0.546271,16.451662,no_mans_land,deuce,near,1.175834,0.32012,2.446454,down the T,In,False,13:06:22,1227.579956,1,,,,,,,,,,,
+128,Opponent,2,return,Backhand,Topspin,69,40,0,0,service_box,deuce,near,0.240479,5.516808,no_mans_land,deuce,far,-2.116668,24.811533,1.726214,inside out,In,False,13:06:23,1228.47998,1,,,,,,,,,,,
+129,Player,3,serve_plus_one,Forehand,Topspin,69,40,0,0,service_box,ad,far,2.816622,15.213099,no_mans_land,deuce,near,0.438723,0.428072,0.863784,down the line,In,False,13:06:24,1229.76001,1,,,,,,,,,,,
+130,Player,0,none,Forehand,Topspin,58,41,0,0,no_mans_land,ad,far,0.47455,18.58765,out,ad,near,-0.323564,-1.541752,1.463348,inside out,In,False,13:06:35,1240.680054,1,,,,,,,,,,,cancelled
+131,Opponent,0,none,Backhand,Topspin,52,41,0,0,no_mans_land,deuce,near,1.15939,4.242463,no_mans_land,deuce,far,-0.328694,21.21134,1.224787,inside out,In,False,13:06:37,1242.47998,1,,,,,,,,,,,cancelled
+132,Player,1,serve,Serve,Slice,138,42,0,0,service_box,deuce,near,2.478401,11.88,no_mans_land,ad,near,-1.172363,-0.295916,2.580409,out wide,Net,False,13:06:47,1252.859985,-1,,,,,,,,,,,
+133,Player,1,serve,Serve,Slice,89,43,0,0,service_box,ad,far,1.913389,14.707067,no_mans_land,ad,near,-1.123804,1.026268,2.476388,out wide,In,False,13:06:58,1263.699951,1,,,,,,,,,,,
+134,Opponent,2,return,Forehand,Flat,111,43,0,0,service_box,deuce,near,1.655455,5.786922,no_mans_land,ad,far,3.550466,24.604412,1.196158,inside in,In,False,13:06:59,1264.780029,1,,,,,,,,,,,
+135,Player,3,serve_plus_one,Forehand,Topspin,78,43,0,0,no_mans_land,ad,far,2.21609,19.162983,no_mans_land,deuce,near,1.262078,1.218465,0.938527,down the line,In,False,13:07:00,1265.719971,1,,,,,,,,,,,
+136,Player,1,serve,Serve,Slice,140,44,0,0,no_mans_land,ad,far,0.509541,19.931225,no_mans_land,deuce,near,1.264822,0.874061,2.430913,down the T,Out,False,13:07:20,1285.459961,-1,,,,,,,,,,,
+137,Opponent,0,none,Backhand,Slice,58,45,0,0,no_mans_land,deuce,near,0.930994,1.668893,out,deuce,far,-0.65624,25.087168,2.528008,inside out,In,False,13:07:21,1286.380005,0,,,,,,,,,,,
+138,Player,1,serve,Serve,Kick,96,46,0,0,service_box,deuce,far,-0.970846,17.583948,no_mans_land,deuce,near,0.930994,1.143646,2.437746,down the T,In,False,13:07:31,1296.280029,1,,,,,,,,,,,
+139,Opponent,2,return,Forehand,Flat,80,46,0,0,no_mans_land,deuce,near,0.574166,3.257063,no_mans_land,deuce,far,-2.289644,24.856329,1.274093,cross court,In,False,13:07:32,1297.199951,1,,,,,,,,,,,
+140,Player,3,serve_plus_one,Forehand,Topspin,87,46,0,0,service_box,ad,far,1.621932,15.734158,no_mans_land,deuce,near,0.588879,0.353505,1.117648,down the line,In,False,13:07:33,1298.560059,1,,,,,,,,,,,
+141,Opponent,4,return_plus_one,Backhand,Topspin,91,46,0,0,no_mans_land,ad,near,-4.61,4.01,out,ad,far,2.05,25.12,1.063396,cross court,Out,False,13:07:34,1299.780029,1,In,-3.858253,4.010153,2.054965,25.11833,Out,-4.61,4.01,2.05,25.12,
+142,Player,0,in_play,Backhand,Slice,71,46,0,0,out,ad_alley,far,4.267715,25.897676,out,ad_alley,near,-4.521514,-0.536547,0.705796,cross court,Out,False,13:07:36,1301.219971,1,,,,,,,,,,,
+143,Opponent,1,serve,Serve,Flat,50,47,0,0,service_box,deuce,near,-0.5,6.72,no_mans_land,deuce,far,-0.79,23.59,2.63455,down the T,Out,False,13:08:13,1338.280029,-2,In,0.545488,6.720218,-0.79097,23.592459,Out,-0.5,6.72,-0.79,23.59,
+144,Player,0,return,Backhand,Flat,67,47,0,0,no_mans_land,deuce_alley,far,-4.167847,21.519051,no_mans_land,deuce,near,0.44077,0.356742,0.984407,inside in,Out,False,13:08:14,1339.819946,-2,,,,,,,,,,,
+145,Opponent,1,serve,Serve,Flat,70,48,0,0,service_box,deuce,near,0.880636,6.88831,no_mans_land,deuce,far,-1.424114,24.334682,2.668146,down the T,In,False,13:08:23,1349.079956,1,,,,,,,,,,,
+146,Player,2,return,Backhand,Topspin,65,48,0,0,no_mans_land,deuce,far,-1.630966,20.857719,no_mans_land,deuce,near,1.206294,2.54188,1.15606,inside out,In,False,13:08:25,1350.280029,1,,,,,,,,,,,
+147,Opponent,3,serve_plus_one,Forehand,Flat,96,48,0,0,no_mans_land,deuce,near,2.134769,3.521315,no_mans_land,deuce,far,-1.697069,24.727583,0.96851,cross court,In,False,13:08:26,1351.73999,1,,,,,,,,,,,
+148,Player,4,return_plus_one,Forehand,Topspin,77,48,0,0,no_mans_land,ad,far,0.774389,19.645479,out,deuce,near,2.630825,-0.557866,0.949038,down the line,In,False,13:08:27,1352.859985,1,,,,,,,,,,,
+149,Opponent,5,in_play,Forehand,Flat,106,48,0,0,no_mans_land,deuce,near,1.483445,4.299452,out,ad,far,0.318959,25.267443,1.402982,inside in,In,False,13:08:29,1354.199951,1,,,,,,,,,,,
+150,Player,6,in_play,Forehand,Topspin,88,48,0,0,no_mans_land,ad,far,1.703136,18.3929,out,deuce,near,2.07471,-0.914015,0.717815,down the line,In,False,13:08:30,1355.400024,1,,,,,,,,,,,
+151,Opponent,7,in_play,Backhand,Flat,128,48,0,0,no_mans_land,ad,near,-3.423117,3.612333,no_mans_land,ad,far,1.84527,24.870531,1.11916,cross court,In,False,13:08:31,1356.73999,1,,,,,,,,,,,
+152,Player,8,in_play,Backhand,Topspin,71,48,0,0,no_mans_land,ad,far,1.258353,19.073524,out,ad,near,-4.08827,-0.859916,0.855636,cross court,In,False,13:08:32,1357.780029,1,,,,,,,,,,,
+153,Opponent,9,in_play,Forehand,Flat,126,48,0,0,no_mans_land,deuce,near,2.671747,3.219299,out,ad,far,3.085271,25.539122,1.21341,inside in,In,False,13:08:34,1359.319946,1,,,,,,,,,,,
+154,Player,10,in_play,Forehand,Slice,66,48,0,0,no_mans_land,ad,far,0.549999,20.741394,out,deuce,near,3.21852,-1.158522,0.420603,down the line,In,False,13:08:35,1360.459961,1,,,,,,,,,,,
+155,Opponent,11,in_play,Forehand,Flat,101,48,0,0,no_mans_land,ad,near,-2.816595,4.364007,out,deuce,far,-0.04653,25.238464,0.991322,down the line,In,False,13:08:37,1362.160034,1,,,,,,,,,,,
+156,Player,12,in_play,Backhand,Topspin,92,48,0,0,service_box,ad,far,3.867932,17.034756,out,ad,near,-3.357864,-0.942731,0.835361,cross court,In,False,13:08:38,1363.319946,1,,,,,,,,,,,
+157,Player,0,none,Forehand,Topspin,90,49,0,0,service_box,deuce,far,-0.489481,15.623006,no_mans_land,deuce,near,0.307906,0.557748,1.584607,cross court,In,False,13:08:54,1379.47998,1,,,,,,,,,,,
+158,Opponent,1,serve,Serve,Slice,137,50,0,0,service_box,ad,near,-3.736793,5.496434,no_mans_land,ad,far,-0.10771,24.055899,2.479773,out wide,In,False,13:09:10,1395.780029,0,,,,,,,,,,,
+159,Player,0,none,Backhand,Flat,80,51,0,0,no_mans_land,deuce,near,0.063623,11.88,out,ad_alley,near,-5.379792,-1.802388,1.033702,down the line,Net,False,13:09:11,1396.73999,0,,,,,,,,,,,
+160,Opponent,1,serve,Serve,Flat,49,53,0,0,service_box,ad,near,-0.270078,6.292275,no_mans_land,ad,far,-0.613248,23.643412,2.40527,down the T,In,False,13:09:32,1417.380005,1,,,,,,,,,,,
+161,Player,2,return,Forehand,Topspin,60,53,0,0,no_mans_land,deuce,far,-3.000545,19.822161,no_mans_land,ad,near,-0.403865,1.464685,1.459503,inside in,In,False,13:09:33,1419.079956,1,,,,,,,,,,,
+162,Opponent,3,serve_plus_one,Forehand,Flat,97,53,0,0,no_mans_land,ad,near,-4.61,2.62,no_mans_land,deuce,far,-3.35,23.84,1.301211,down the line,Out,False,13:09:35,1420.780029,1,In,-2.483515,2.615065,-3.346769,23.838167,Out,-4.61,2.62,-3.35,23.84,
+163,Opponent,1,serve,Serve,Flat,83,54,0,0,service_box,deuce,near,2.749561,6.510781,no_mans_land,deuce,far,-1.167172,24.339216,2.645131,out wide,In,False,13:10:04,1449.280029,1,,,,,,,,,,,
+164,Player,2,return,Forehand,Flat,81,54,0,0,no_mans_land,deuce,far,-1.689047,19.91415,no_mans_land,deuce_alley,near,4.808555,-0.232939,1.271079,down the line,In,False,13:10:05,1450.5,1,,,,,,,,,,,
+165,Opponent,3,serve_plus_one,Forehand,Topspin,69,54,0,0,no_mans_land,ad,near,-1.120404,4.366063,no_mans_land,deuce,far,-2.104444,24.306116,1.237313,down the line,In,False,13:10:06,1451.680054,1,,,,,,,,,,,
+166,Player,4,return_plus_one,Backhand,Topspin,81,54,0,0,no_mans_land,deuce,far,-2.441276,18.308119,out,ad,near,-1.484174,-1.454724,0.79559,down the line,In,False,13:10:08,1453.459961,1,,,,,,,,,,,
+167,Opponent,1,serve,Serve,Flat,154,55,0,0,no_mans_land,ad,near,-0.625207,4.478108,no_mans_land,ad,far,0.048601,24.033092,2.514083,down the T,Out,False,13:10:31,1476.719971,-2,,,,,,,,,,,
+168,Player,0,return,Forehand,Flat,67,55,0,0,service_box,deuce,near,0.924503,11.88,out,ad,near,-1.004339,-0.786072,1.116105,inside in,Net,False,13:10:32,1477.359985,-2,,,,,,,,,,,
+169,Opponent,1,serve,Serve,Flat,103,56,0,0,service_box,ad,near,-3.142354,6.287575,no_mans_land,ad,far,0.196566,23.593142,1.988998,out wide,In,False,13:10:42,1487.76001,0,,,,,,,,,,,
+170,Player,2,return,Backhand,Flat,73,56,0,0,service_box,ad,far,2.115742,16.922499,no_mans_land,ad_alley,near,-4.341382,-0.351826,1.085615,down the line,In,False,13:10:43,1488.619995,0,,,,,,,,,,,
+171,Opponent,3,serve_plus_one,Backhand,Topspin,88,56,0,0,no_mans_land,ad,near,-2.082303,2.60641,no_mans_land,ad,far,3.214986,23.926477,0.966794,cross court,In,False,13:10:44,1489.880005,0,,,,,,,,,,,
+172,Player,4,return_plus_one,Backhand,Topspin,81,56,0,0,no_mans_land,deuce,far,-0.181103,18.832338,no_mans_land,ad,near,-3.149419,-0.283473,0.643915,down the line,In,False,13:10:45,1491.079956,0,,,,,,,,,,,
+173,Opponent,5,in_play,Forehand,Flat,90,56,0,0,no_mans_land,deuce,near,2.849857,4.069047,out,ad,far,1.030557,25.18133,1.009694,inside in,In,False,13:10:47,1492.359985,0,,,,,,,,,,,
+174,Player,6,in_play,Forehand,Topspin,93,56,0,0,service_box,deuce,near,0.565463,11.88,out,deuce,near,3.312953,-0.817029,1.015402,cross court,Net,False,13:10:48,1493.560059,0,,,,,,,,,,,
+175,Opponent,1,serve,Serve,Flat,158,57,0,0,service_box,deuce,near,3.226965,5.642211,no_mans_land,deuce,far,-0.994844,24.325365,2.514335,out wide,In,False,13:11:14,1519.640015,1,,,,,,,,,,,
+176,Player,2,return,Forehand,Flat,75,57,0,0,no_mans_land,ad,far,0.462854,19.710491,no_mans_land,deuce_alley,near,4.604242,1.036074,1.254363,down the line,In,False,13:11:15,1520.420044,1,,,,,,,,,,,
+177,Opponent,3,serve_plus_one,Backhand,Flat,109,57,0,0,service_box,ad,near,-1.77061,7.450649,no_mans_land,deuce,far,-1.216879,23.704222,1.350011,inside in,In,False,13:11:16,1522.040039,1,,,,,,,,,,,
+178,Player,4,return_plus_one,Backhand,Topspin,84,57,0,0,no_mans_land,ad,far,0.872233,19.41717,no_mans_land,ad,near,-2.294981,0.399935,0.680571,cross court,In,False,13:11:18,1523.219971,1,,,,,,,,,,,
+179,Opponent,5,in_play,Backhand,Topspin,79,57,0,0,no_mans_land,deuce,near,4.61,3.62,no_mans_land,ad,far,1.22,24.26,0.922924,down the line,Out,False,13:11:19,1524.47998,1,In,1.032704,3.616179,1.217999,24.258068,Out,4.61,3.62,1.22,24.26,
+180,Player,1,serve,Serve,Flat,50,59,0,0,service_box,deuce,near,1.016497,5.602729,no_mans_land,deuce,far,-0.792957,23.489016,2.625705,down the T,In,False,13:13:21,1646.380005,0,,,,,,,,,,,swapped srv
+181,Opponent,2,return,Backhand,Flat,72,59,0,0,no_mans_land,ad,far,1.242855,19.998684,no_mans_land,deuce,near,1.338406,0.045356,0.864164,inside in,In,False,13:13:22,1648.02002,0,,,,,,,,,,,swapped srv
+182,Player,3,serve_plus_one,Backhand,Flat,94,59,0,0,no_mans_land,ad,near,-0.487804,4.136016,out,ad,far,1.096973,25.072012,1.0504,cross court,In,False,13:13:24,1649.439941,0,,,,,,,,,,,swapped srv
+183,Opponent,4,return_plus_one,Forehand,Topspin,100,59,0,0,no_mans_land,ad,far,2.471753,19.702084,no_mans_land,ad,near,-0.729069,-0.101806,0.871312,inside out,In,False,13:13:25,1650.619995,0,,,,,,,,,,,swapped srv
+184,Player,1,serve,Serve,Flat,134,60,0,0,service_box,deuce,far,-0.60219,11.88,out,ad,far,0.648004,25.021746,2.495585,down the T,Net,False,13:13:46,1672.02002,-1,,,,,,,,,,,swapped srv
+185,Player,1,serve,Serve,Flat,98,61,0,0,service_box,ad,near,-2.463017,5.814013,no_mans_land,ad,far,0.731982,23.40468,2.148774,out wide,In,False,13:13:56,1682.079956,0,,,,,,,,,,,swapped srv
+186,Opponent,2,return,Forehand,Topspin,74,61,0,0,no_mans_land,ad,far,2.187778,20.650486,out,ad,near,-3.138389,-1.057696,1.13053,inside out,In,False,13:13:58,1683.219971,0,,,,,,,,,,,swapped srv
+187,Player,3,serve_plus_one,Backhand,Topspin,107,61,0,0,no_mans_land,ad,near,-0.827118,3.55365,no_mans_land,ad,far,2.408034,23.907129,1.404342,cross court,In,False,13:13:59,1684.780029,0,,,,,,,,,,,swapped srv
+188,Opponent,4,return_plus_one,Forehand,Flat,60,61,0,0,service_box,ad,far,1.021463,14.680195,out,ad,near,-0.930129,-0.645535,0.819565,inside out,In,False,13:14:00,1685.619995,0,,,,,,,,,,,swapped srv
+189,Player,5,in_play,Backhand,Slice,60,61,0,0,no_mans_land,ad,near,-2.941103,4.224678,no_mans_land,ad,far,2.294104,24.636429,0.802307,cross court,In,False,13:14:02,1687.359985,0,,,,,,,,,,,swapped srv
+190,Opponent,6,in_play,Forehand,Topspin,102,61,0,0,no_mans_land,deuce,far,-1.980172,19.718822,no_mans_land,ad,near,-3.093752,-0.195137,0.929623,inside in,In,False,13:14:04,1689.26001,0,,,,,,,,,,,swapped srv
+191,Player,7,in_play,Forehand,Flat,79,61,0,0,no_mans_land,deuce_alley,near,4.756199,3.225553,out,deuce,far,-2.462335,25.366266,1.015505,down the line,Out,False,13:14:05,1690.400024,0,,,,,,,,,,,swapped srv
+192,Player,1,serve,Serve,Flat,44,63,0,0,service_box,deuce,near,1.166579,7.680332,no_mans_land,deuce,far,-0.980436,22.675323,2.378508,down the T,In,False,13:14:35,1720.180054,1,,,,,,,,,,,swapped srv
+193,Player,1,serve,Serve,Flat,148,64,0,0,service_box,ad,near,-3.581715,6.147639,no_mans_land,ad,far,0.753993,24.339287,2.50398,out wide,In,False,13:14:57,1742.420044,1,,,,,,,,,,,swapped srv
+194,Opponent,2,return,Backhand,Flat,81,64,0,0,no_mans_land,ad,far,0.159641,19.664295,out,ad_alley,near,-5.165849,-1.462001,0.921021,down the line,In,False,13:14:58,1743.160034,1,,,,,,,,,,,swapped srv
+195,Player,3,serve_plus_one,Forehand,Flat,87,64,0,0,no_mans_land,deuce,near,0.507968,3.810351,out,ad,far,0.352087,26.176378,1.026461,inside in,In,False,13:14:59,1744.73999,1,,,,,,,,,,,swapped srv
+196,Opponent,4,return_plus_one,Forehand,Topspin,85,64,0,0,service_box,deuce,far,-2.252478,17.57584,no_mans_land,deuce,near,0.542923,0.361006,1.002714,cross court,In,False,13:15:00,1745.920044,1,,,,,,,,,,,swapped srv
+197,Player,5,in_play,Forehand,Flat,93,64,0,0,no_mans_land,ad,near,-1.617304,2.968924,out,deuce,far,-3.07486,25.320246,1.233277,down the line,In,False,13:15:02,1747.199951,1,,,,,,,,,,,swapped srv
+198,Opponent,6,in_play,Backhand,Flat,70,64,0,0,service_box,ad,far,1.316487,17.004171,no_mans_land,ad,near,-1.607756,1.12673,0.358754,cross court,In,False,13:15:03,1748.199951,1,,,,,,,,,,,swapped srv
+199,Player,7,in_play,Backhand,Slice,85,64,0,0,no_mans_land,ad,near,-3.596451,2.335316,no_mans_land,ad,far,2.075654,24.839518,1.225108,cross court,In,False,13:15:04,1749.680054,1,,,,,,,,,,,swapped srv
+200,Opponent,8,in_play,Backhand,Slice,68,64,0,0,no_mans_land,ad,far,1.730837,18.601799,out,ad,near,-3.857969,-0.906842,0.66833,cross court,In,False,13:15:06,1751.219971,1,,,,,,,,,,,swapped srv
+201,Player,9,in_play,Backhand,Topspin,67,64,0,0,no_mans_land,ad,near,-2.252718,4.993022,no_mans_land,ad,far,2.901428,24.487921,1.024081,cross court,In,False,13:15:07,1752.880005,1,,,,,,,,,,,swapped srv
+202,Opponent,10,in_play,Forehand,Topspin,94,64,0,0,no_mans_land,ad,far,1.713764,19.787546,no_mans_land,ad,near,-2.40505,-0.417515,0.622503,inside out,In,False,13:15:09,1754.47998,1,,,,,,,,,,,swapped srv
+203,Player,11,in_play,Backhand,Topspin,89,64,0,0,service_box,ad_alley,near,-3.61,5.79,no_mans_land,ad,far,2.49,24.93,0.985695,down the line,In,False,13:15:10,1755.880005,1,Out,-4.793172,5.786922,2.494142,24.932463,In,-3.61,5.79,2.49,24.93,swapped srv
+204,Player,0,none,Forehand,Topspin,88,65,0,0,service_box,ad,far,0.459603,17.05117,no_mans_land,deuce,near,0.104631,1.591093,2.023283,down the line,In,False,13:15:19,1764.380005,1,,,,,,,,,,,
+205,Player,1,serve,Serve,Flat,49,67,0,0,service_box,deuce,near,3.507354,5.816826,no_mans_land,deuce,far,-1.464497,24.198875,2.797581,out wide,In,False,13:15:41,1786.380005,1,,,,,,,,,,,swapped srv
+206,Opponent,2,return,Forehand,Flat,72,67,0,0,service_box,deuce_out,far,-5.842535,17.323122,no_mans_land,deuce_alley,near,4.840803,1.144367,1.402502,down the line,Out,False,13:15:43,1788.420044,1,,,,,,,,,,,swapped srv
+207,Opponent,0,none,Backhand,Flat,71,68,0,0,no_mans_land,ad,far,0.572332,18.83432,no_mans_land,ad,near,-3.471378,-0.372021,0.623229,cross court,In,False,13:16:02,1807.420044,1,,,,,,,,,,,swapped srv
+208,Player,1,none,Forehand,Topspin,104,68,0,0,service_box,ad,near,-1.794078,5.660437,out,ad,far,1.460467,25.36931,0.989287,inside out,In,False,13:16:03,1808.880005,1,,,,,,,,,,,swapped srv
+209,Opponent,2,none,Backhand,Flat,77,68,0,0,service_box,ad,far,2.682494,17.120506,no_mans_land,ad,near,-2.465786,-0.067729,0.845335,cross court,In,False,13:16:04,1810.0,1,,,,,,,,,,,swapped srv
+210,Player,3,none,Backhand,Flat,86,68,0,0,no_mans_land,ad,near,-0.882413,4.177063,no_mans_land,ad,far,4.071128,24.262899,1.044686,cross court,In,False,13:16:06,1811.5,1,,,,,,,,,,,swapped srv
+211,Opponent,4,none,Forehand,Flat,79,68,0,0,no_mans_land,deuce,far,-2.139082,19.518507,out,ad,near,-1.604557,-0.699603,0.915096,inside in,In,False,13:16:07,1812.52002,1,,,,,,,,,,,swapped srv
+212,Player,5,none,Forehand,Flat,79,68,0,0,no_mans_land,deuce,near,3.045137,3.362381,out,deuce,far,-2.371535,25.720217,0.982319,cross court,In,False,13:16:08,1813.76001,1,,,,,,,,,,,swapped srv
+213,Opponent,6,none,Forehand,Topspin,80,68,0,0,service_box,deuce,near,2.157707,11.88,no_mans_land,deuce,near,3.213007,1.115717,0.698236,cross court,Net,False,13:16:09,1814.920044,1,,,,,,,,,,,swapped srv
+214,Opponent,1,serve,Serve,Slice,136,69,0,0,service_box,deuce,far,-2.45,18.98,no_mans_land,deuce,near,0.46,-0.23,2.68735,out wide,Out,False,13:16:51,1856.160034,-2,In,-2.451178,16.843988,0.460092,-0.232259,Out,-2.45,18.98,0.46,-0.23,swapped srv
+215,Opponent,1,serve,Serve,Slice,119,70,0,0,service_box,deuce,far,-0.480762,14.989822,no_mans_land,deuce,near,0.399083,0.861694,2.550701,down the T,In,False,13:17:03,1868.180054,0,,,,,,,,,,,swapped srv
+216,Player,2,return,Backhand,Flat,105,70,0,0,no_mans_land,deuce,near,0.399622,4.455908,no_mans_land,deuce,far,-1.360838,24.603268,1.308657,inside out,In,False,13:17:03,1869.060059,0,,,,,,,,,,,swapped srv
+217,Opponent,3,serve_plus_one,Forehand,Flat,69,70,0,0,no_mans_land,ad,far,2.932226,19.695208,no_mans_land,deuce,near,0.514195,2.362772,1.091564,down the line,In,False,13:17:04,1869.939941,0,,,,,,,,,,,swapped srv
+218,Player,4,return_plus_one,Backhand,Topspin,91,70,0,0,service_box,ad_alley,far,4.547891,11.88,no_mans_land,ad_alley,far,4.197621,24.35043,1.227014,cross court,Net,False,13:17:06,1871.47998,0,,,,,,,,,,,swapped srv
+219,Opponent,1,serve,Serve,Slice,140,71,0,0,service_box,ad,far,0.719543,15.827974,out,ad,near,-0.318828,-0.827095,2.624336,down the T,In,False,13:17:55,1920.560059,1,,,,,,,,,,,swapped srv
+220,Player,2,return,Forehand,Flat,91,71,0,0,service_box,deuce,near,1.595771,6.036408,no_mans_land,ad,far,0.628806,24.884863,1.161129,inside in,In,False,13:17:56,1921.359985,1,,,,,,,,,,,swapped srv
+221,Opponent,3,serve_plus_one,Forehand,Topspin,99,71,0,0,no_mans_land,deuce,far,-1.936241,19.059677,no_mans_land,deuce,near,1.72549,0.65125,0.881745,cross court,In,False,13:17:57,1922.52002,1,,,,,,,,,,,swapped srv
+222,Player,4,return_plus_one,Forehand,Flat,94,71,0,0,no_mans_land,ad,near,-0.547714,4.002539,out,deuce,far,-3.340521,25.384031,1.152305,down the line,In,False,13:17:58,1923.719971,1,,,,,,,,,,,swapped srv
+223,Opponent,5,in_play,Forehand,Flat,77,71,0,0,service_box,deuce,near,0.983982,11.88,no_mans_land,ad,near,-0.224433,1.150917,0.779534,inside in,Net,False,13:17:59,1924.76001,1,,,,,,,,,,,swapped srv
+224,Player,1,serve,Serve,Slice,139,73,0,0,service_box,deuce,far,-4.61,16.74,no_mans_land,deuce,near,0.73,1.37,2.555434,out wide,Out,False,13:18:22,1947.459961,-1,In,-2.747627,16.738308,0.733604,1.373301,Out,-4.61,16.74,0.73,1.37,
+225,Opponent,1,serve,Serve,Flat,135,74,0,0,service_box,deuce,far,-1.253449,17.348986,no_mans_land,deuce,near,0.438885,0.592815,2.38742,down the T,In,False,13:18:40,1965.219971,1,,,,,,,,,,,swapped srv
+226,Player,2,return,Backhand,Slice,80,74,0,0,service_box,deuce,far,-0.99,12.3,no_mans_land,deuce,far,-1.35,24.97,1.480327,inside out,In,False,13:18:40,1965.97998,1,In,-0.99,11.88,-1.35,24.97,In,-0.99,12.3,-1.35,24.97,swapped srv
+227,Opponent,1,serve,Serve,Slice,132,75,0,0,service_box,ad,far,0.507301,16.284887,no_mans_land,ad,near,-0.263958,1.313278,2.461975,down the T,In,False,13:19:05,1990.76001,0,,,,,,,,,,,swapped srv
+228,Opponent,0,none,Forehand,Flat,76,76,0,0,no_mans_land,deuce,near,0.567344,0.745185,no_mans_land,ad,far,1.245305,24.711409,1.762683,inside in,In,False,13:19:06,1991.599976,0,,,,,,,,,,,
+229,Opponent,1,serve,Serve,Kick,145,77,0,0,service_box,deuce,far,-2.82351,17.319811,no_mans_land,deuce,near,0.567344,0.219938,2.504125,out wide,In,False,13:19:25,2010.780029,0,,,,,,,,,,,swapped srv
+230,Player,2,return,Forehand,Topspin,94,77,0,0,service_box,deuce,far,-1.253828,11.88,no_mans_land,deuce_alley,far,-4.344391,23.366747,1.02215,down the line,Net,False,13:19:26,2011.52002,0,,,,,,,,,,,swapped srv
+231,Opponent,1,serve,Serve,Flat,135,78,0,0,service_box,deuce_alley,near,4.437944,11.88,no_mans_land,ad,near,-0.366411,0.867575,2.495136,out wide,Net,False,13:19:46,2031.26001,-2,,,,,,,,,,,swapped srv
+232,Opponent,1,serve,Serve,Kick,97,79,0,0,service_box,ad,far,2.382277,15.79889,no_mans_land,ad,near,-0.29825,-0.205448,2.559453,out wide,In,False,13:19:58,2043.459961,1,,,,,,,,,,,swapped srv
+233,Player,2,return,Backhand,Topspin,103,79,0,0,no_mans_land,ad,near,-2.622913,3.7169,no_mans_land,ad_alley,far,4.429172,23.559574,1.274572,down the line,In,False,13:19:59,2044.47998,1,,,,,,,,,,,swapped srv
+234,Opponent,3,serve_plus_one,Backhand,Flat,88,79,0,0,no_mans_land,deuce,far,-0.722318,19.333218,out,ad_alley,near,-4.281506,-1.172108,0.658222,down the line,In,False,13:20:00,2045.319946,1,,,,,,,,,,,swapped srv
+235,Player,4,return_plus_one,Forehand,Flat,123,79,0,0,no_mans_land,ad,near,-3.0724,3.970674,out,deuce,far,-0.486586,25.555628,0.781883,down the line,In,False,13:20:02,2047.23999,1,,,,,,,,,,,swapped srv
+236,Opponent,5,in_play,Backhand,Flat,51,79,0,0,service_box,deuce,far,-0.14254,16.756277,no_mans_land,ad,near,-3.81408,0.122185,0.680154,down the line,In,False,13:20:03,2048.320068,1,,,,,,,,,,,swapped srv
+237,Player,6,in_play,Forehand,Flat,181,79,0,0,service_box,deuce,near,1.853435,6.85679,service_box,deuce,far,-0.14254,17.965065,2.852863,---,In,False,13:20:04,2050.080078,1,,,,,,,,,,,swapped srv
+238,Opponent,1,serve,Serve,Slice,131,80,0,0,service_box,deuce,far,-3.011407,17.253433,no_mans_land,deuce,near,0.351128,1.280829,2.525345,out wide,In,False,13:20:36,2081.419922,0,,,,,,,,,,,swapped srv
+239,Player,2,return,Forehand,Flat,70,80,0,0,service_box,deuce,near,0.381824,5.871282,no_mans_land,deuce_alley,far,-4.943875,24.42972,1.103137,down the line,In,False,13:20:37,2082.26001,0,,,,,,,,,,,swapped srv
+240,Opponent,3,serve_plus_one,Forehand,Topspin,66,80,0,0,no_mans_land,ad,far,2.26054,21.21748,no_mans_land,deuce,near,0.45167,3.975288,0.712255,down the line,In,False,13:20:38,2083.379883,0,,,,,,,,,,,swapped srv
+241,Player,4,return_plus_one,Backhand,Topspin,53,80,0,0,no_mans_land,ad,near,-4.61,2.7,no_mans_land,ad,far,2.98,24.52,0.964194,cross court,Out,False,13:20:39,2084.97998,0,In,-1.992503,2.703419,2.975385,24.519972,Out,-4.61,2.7,2.98,24.52,swapped srv
+242,Opponent,1,serve,Serve,Slice,116,81,0,0,service_box,ad,far,0.417538,16.900326,out,ad,near,-0.314931,-0.61342,2.548684,down the T,In,False,13:21:03,2109.060059,0,,,,,,,,,,,swapped srv
+243,Player,2,return,Forehand,Topspin,86,81,0,0,no_mans_land,ad,near,-0.258368,5.076332,no_mans_land,ad,far,1.08939,23.966757,1.699199,inside out,In,False,13:21:04,2109.780029,0,,,,,,,,,,,swapped srv
+244,Opponent,3,serve_plus_one,Forehand,Topspin,105,81,0,0,no_mans_land,deuce,far,-1.438514,19.366917,no_mans_land,ad,near,-0.633031,0.57294,0.807607,inside in,In,False,13:21:05,2110.919922,0,,,,,,,,,,,swapped srv
+245,Player,4,return_plus_one,Forehand,Topspin,106,81,0,0,no_mans_land,ad,near,-0.102759,2.859221,out,deuce,far,-2.006226,26.095175,0.883027,down the line,In,False,13:21:06,2111.97998,0,,,,,,,,,,,swapped srv
+246,Opponent,5,in_play,Forehand,Topspin,67,81,0,0,no_mans_land,ad,far,1.252671,20.531839,no_mans_land,ad,near,-0.150887,0.748798,0.633258,inside out,In,False,13:21:07,2112.820068,0,,,,,,,,,,,swapped srv
+247,Player,6,in_play,Forehand,Flat,99,81,0,0,no_mans_land,deuce,near,3.305694,3.314754,no_mans_land,ad,far,1.769322,24.385305,1.733155,inside in,In,False,13:21:09,2114.5,0,,,,,,,,,,,swapped srv
+248,Opponent,7,in_play,Forehand,Flat,56,81,0,0,no_mans_land,ad,far,1.754349,22.117445,no_mans_land,deuce,near,2.992394,-0.289639,0.763236,down the line,In,False,13:21:10,2115.659912,0,,,,,,,,,,,swapped srv
+249,Player,8,in_play,Forehand,Slice,66,81,0,0,service_box,deuce,near,3.034359,6.022354,service_box,ad,far,1.644686,18.333452,2.516953,inside in,In,False,13:21:13,2118.879883,0,,,,,,,,,,,swapped srv
+250,Opponent,9,in_play,Forehand,Flat,70,81,0,0,service_box,deuce,far,-1.968472,16.807194,no_mans_land,deuce,near,2.555105,1.794209,0.606419,cross court,In,False,13:21:15,2120.419922,0,,,,,,,,,,,swapped srv
+251,Player,10,in_play,FH Volley,Flat,40,81,0,0,service_box,deuce,far,-2.31654,11.88,service_box,deuce,far,-1.968472,18.015982,0.722173,cross court,Net,False,13:21:16,2121.280029,0,,,,,,,,,,,swapped srv
+252,Player,0,serve,Serve,Slice,121,82,0,0,service_box,deuce,near,0.350841,11.88,no_mans_land,deuce,near,0.373957,1.476094,2.151094,down the T,Net,False,13:21:37,2142.659912,0,,,,,,,,,,,cancelled
+253,Player,0,return,Forehand,Flat,61,82,0,0,service_box,deuce,near,0.67695,11.88,no_mans_land,deuce,near,0.217788,3.554457,1.686476,cross court,Net,False,13:21:38,2143.26001,0,,,,,,,,,,,cancelled
+254,Player,0,serve_plus_one,Forehand,Topspin,88,82,0,0,service_box,deuce,near,1.076047,11.88,out,ad,near,-0.315746,-1.351538,1.403284,inside in,Net,False,13:21:39,2144.280029,0,,,,,,,,,,,cancelled
+255,Player,0,return_plus_one,Forehand,Flat,65,82,0,0,service_box,deuce,near,0.052967,11.88,out,deuce,near,0.043225,-1.561777,0.858997,cross court,Net,False,13:21:41,2146.560059,0,,,,,,,,,,,cancelled
+256,Player,0,in_play,Forehand,Topspin,92,82,0,0,service_box,ad,near,-1.301646,11.88,no_mans_land,deuce,near,0.010485,3.886259,1.352139,down the line,Net,False,13:21:42,2148.080078,0,,,,,,,,,,,cancelled
+257,Player,0,serve,Serve,Flat,130,83,0,0,service_box,deuce,near,1.847634,11.88,no_mans_land,ad,near,0.628979,0.247223,1.946145,out wide,Net,False,13:21:49,2154.379883,0,,,,,,,,,,,cancelled
+258,Player,0,return,Forehand,Topspin,52,83,0,0,service_box,deuce,near,1.112404,11.88,no_mans_land,deuce,near,2.609207,2.378154,1.66154,cross court,Net,False,13:21:50,2155.280029,0,,,,,,,,,,,cancelled
+259,Player,1,serve,Serve,Flat,123,84,0,0,service_box,ad,near,-1.699391,11.88,no_mans_land,deuce,near,0.833855,0.255539,2.535794,out wide,Net,False,13:23:17,2243.120117,-1,,,,,,,,,,,
+260,Player,1,serve,Serve,Kick,100,85,0,0,service_box,deuce,far,-1.165359,17.503536,service_box,deuce,near,1.024357,-0.064902,2.498826,down the T,In,False,13:23:26,2251.179932,0,,,,,,,,,,,
+261,Opponent,2,return,Forehand,Flat,92,85,0,0,no_mans_land,ad,near,-3.291484,2.252009,no_mans_land,deuce,far,-2.606,24.336708,1.237885,down the line,In,False,13:23:27,2252.699951,0,,,,,,,,,,,
+262,Player,3,serve_plus_one,Backhand,Flat,75,85,0,0,no_mans_land,ad,far,0.984107,19.526524,out,ad,near,-3.168715,-1.668871,0.985972,cross court,In,False,13:23:28,2253.879883,0,,,,,,,,,,,
+263,Opponent,4,return_plus_one,Forehand,Flat,92,85,0,0,no_mans_land,ad,near,-3.741562,3.805993,no_mans_land,ad,far,1.992103,24.658361,1.239705,inside out,In,False,13:23:30,2255.419922,0,,,,,,,,,,,
+264,Player,5,in_play,Backhand,Topspin,86,85,0,0,out,ad,far,0.158909,24.894478,out,ad_alley,near,-4.344696,-1.07393,0.587678,down the line,Out,False,13:23:31,2256.620117,0,,,,,,,,,,,
+265,Player,0,none,Overhead,Flat,35,86,0,0,service_box,ad,near,-0.913246,11.88,no_mans_land,ad,near,-0.913246,1.088784,2.182647,cross court,Net,False,13:23:40,2265.379883,0,,,,,,,,,,,
+266,Player,1,serve,Serve,Slice,128,87,0,0,service_box,deuce,far,-0.13361,15.394497,out,ad,near,-0.977696,-0.60897,2.586723,down the T,Out,False,13:23:57,2283.120117,-1,,,,,,,,,,,
+267,Opponent,0,return,Forehand,Slice,93,87,0,0,no_mans_land,deuce,far,-0.732372,11.88,out,ad,far,0.063703,25.224741,1.805767,inside in,Net,False,13:23:58,2284.080078,-1,,,,,,,,,,,
+268,Player,1,serve,Serve,Kick,99,88,0,0,service_box,ad,far,2.304001,15.825783,no_mans_land,ad,near,-0.719983,0.568173,2.43097,out wide,In,False,13:24:08,2294.0,1,,,,,,,,,,,
+269,Opponent,2,return,Backhand,Topspin,62,88,0,0,no_mans_land,deuce_alley,near,4.5018,2.566923,no_mans_land,ad,far,3.942722,24.770477,1.471791,down the line,Out,False,13:24:09,2295.080078,1,,,,,,,,,,,
+270,Player,1,serve,Serve,Flat,109,89,0,0,service_box,ad,far,-0.5,14.74,no_mans_land,deuce,near,0.61,-0.01,2.314018,down the T,In,False,13:24:30,2315.780029,1,Out,0.392467,14.743631,0.61249,-0.008635,In,-0.5,14.74,0.61,-0.01,
+271,Opponent,0,return,Backhand,Flat,57,89,0,0,service_box,deuce_alley,far,-3.61,11.88,no_mans_land,deuce,far,-1.0,24.35,1.993323,inside in,In,False,13:24:31,2316.73999,1,Net,-4.294149,11.88,-0.99734,24.348846,In,-3.61,11.88,-1.0,24.35,
+272,Player,1,serve,Serve,Flat,124,90,0,0,service_box,ad,far,0.452776,15.292908,no_mans_land,ad,near,-0.810714,-0.129566,2.52859,down the T,In,False,13:24:45,2331.02002,1,,,,,,,,,,,
+273,Opponent,2,return,Forehand,Slice,76,90,0,0,service_box,ad,far,0.156256,11.88,out,ad,far,0.959957,25.108059,1.364554,inside out,Net,False,13:24:46,2331.840088,1,,,,,,,,,,,
+274,Player,1,serve,Serve,Kick,120,91,0,0,service_box,deuce,far,-0.972207,14.833732,service_box,deuce,near,1.125507,-0.240614,1.236536,down the T,In,False,13:25:02,2347.179932,1,,,,,,,,,,,
+275,Opponent,2,return,Backhand,Topspin,59,91,0,0,service_box,ad,near,-2.05112,6.433074,no_mans_land,deuce,far,-1.796143,23.920422,1.051619,inside in,In,False,13:25:03,2348.47998,1,,,,,,,,,,,
+276,Player,3,serve_plus_one,Backhand,Flat,84,91,0,0,no_mans_land,deuce,far,-3.168249,22.581181,no_mans_land,ad,near,-2.637429,1.642414,0.994062,down the line,In,False,13:25:05,2350.23999,1,,,,,,,,,,,
+277,Opponent,1,serve,Serve,Flat,160,92,0,0,service_box,deuce,near,1.092775,5.694424,no_mans_land,deuce,far,-1.161331,24.955076,2.715671,down the T,In,False,13:25:41,2386.419922,1,,,,,,,,,,,
+278,Player,2,return,Backhand,Topspin,93,92,0,0,no_mans_land,deuce,far,-1.145674,21.821648,no_mans_land,deuce,near,1.307752,0.561454,1.040519,inside out,In,False,13:25:41,2387.120117,1,,,,,,,,,,,
+279,Opponent,3,serve_plus_one,Forehand,Topspin,57,92,0,0,no_mans_land,ad,near,-0.966828,5.476391,out,deuce,far,-1.666789,25.15251,0.804212,down the line,In,False,13:25:43,2388.280029,1,,,,,,,,,,,
+280,Player,4,return_plus_one,Forehand,Topspin,99,92,0,0,no_mans_land,deuce,far,-2.873585,18.763767,no_mans_land,ad,near,-0.13992,2.913351,1.27847,inside in,In,False,13:25:45,2390.219971,1,,,,,,,,,,,
+281,Opponent,5,in_play,Forehand,Flat,93,92,0,0,service_box,deuce,near,2.171901,7.384776,out,deuce,far,-4.036577,25.482805,0.754808,cross court,In,False,13:25:46,2391.26001,1,,,,,,,,,,,
+282,Player,6,in_play,FH Volley,Flat,39,92,0,0,no_mans_land,ad,far,2.400561,19.550369,service_box,deuce,near,2.171901,6.859529,1.022353,down the line,In,False,13:25:46,2392.080078,1,,,,,,,,,,,
+283,Opponent,1,serve,Serve,Flat,98,93,0,0,service_box,ad,near,-3.851767,5.947461,service_box,ad,far,0.720625,23.639757,1.83833,out wide,In,False,13:26:13,2418.23999,1,,,,,,,,,,,
+284,Player,2,return,Backhand,Topspin,81,93,0,0,service_box,ad,far,1.786094,15.87681,out,ad_alley,near,-4.865439,-1.505284,0.964961,down the line,In,False,13:26:13,2419.02002,1,,,,,,,,,,,
+285,Opponent,3,serve_plus_one,Backhand,Topspin,99,93,0,0,service_box,deuce,near,2.988976,6.970989,no_mans_land,ad,far,3.159155,20.59997,0.969228,down the line,In,False,13:26:15,2420.679932,1,,,,,,,,,,,
+286,Player,4,return_plus_one,Forehand,Topspin,74,93,0,0,no_mans_land,deuce,far,-1.045331,19.15551,no_mans_land,deuce,near,1.820905,1.751911,0.621038,cross court,In,False,13:26:16,2421.780029,1,,,,,,,,,,,
+287,Opponent,5,in_play,Forehand,Flat,87,93,0,0,no_mans_land,ad,near,-3.031882,3.555444,no_mans_land,deuce,far,-1.643932,24.464327,1.004544,down the line,In,False,13:26:17,2422.919922,1,,,,,,,,,,,
+288,Player,6,in_play,Backhand,Topspin,68,93,0,0,service_box,ad,far,1.74208,18.142681,no_mans_land,ad,near,-2.895415,-0.016162,0.729727,cross court,In,False,13:26:18,2424.120117,1,,,,,,,,,,,
+289,Opponent,7,in_play,BH Volley,Flat,31,93,0,0,no_mans_land,deuce,near,2.234915,5.131499,service_box,ad,far,1.74208,19.351469,0.611251,down the line,In,False,13:26:20,2425.179932,1,,,,,,,,,,,
+290,Player,8,in_play,Forehand,Topspin,98,93,0,0,out,ad,far,2.9,23.23,no_mans_land,deuce,near,2.7,1.17,0.539314,down the line,In,False,13:26:21,2426.320068,1,Out,2.904053,23.829807,2.695545,1.167941,In,2.9,23.23,2.7,1.17,
+291,Player,0,serve,Serve,Flat,119,94,0,0,no_mans_land,deuce,near,2.00716,11.88,no_mans_land,deuce,near,-0.001443,0.315549,1.823235,out wide,Net,False,13:26:39,2444.879883,0,,,,,,,,,,,cancelled
+292,Opponent,1,serve,Serve,Flat,149,95,0,0,service_box,deuce,near,3.76837,5.973504,service_box,deuce,far,-0.374986,23.596668,2.321573,out wide,In,False,13:26:53,2458.73999,0,,,,,,,,,,,
+293,Player,0,return,Forehand,Topspin,91,95,0,0,no_mans_land,ad,far,2.054968,20.294453,no_mans_land,deuce_alley,near,5.065681,2.33767,1.27529,down the line,In,False,13:26:54,2459.780029,0,,,,,,,,,,,
+294,Opponent,1,serve,Serve,Flat,167,96,0,0,service_box,ad,near,-1.415161,6.885332,no_mans_land,ad,far,0.399605,24.274485,2.435673,down the T,In,False,13:27:16,2481.199951,0,,,,,,,,,,,
+295,Player,2,return,Forehand,Topspin,82,96,0,0,no_mans_land,deuce_alley,far,-4.15859,20.308651,out,ad,near,-1.940694,-0.575262,1.12025,inside in,Out,False,13:27:16,2481.820068,0,,,,,,,,,,,
+296,Opponent,1,serve,Serve,Flat,38,97,0,0,service_box,ad,far,2.81252,11.88,no_mans_land,deuce,far,-0.697912,23.511354,2.651108,out wide,Net,False,13:27:38,2503.47998,-2,,,,,,,,,,,
+297,Opponent,1,serve,Serve,Flat,48,98,0,0,service_box,deuce,near,1.665829,7.570864,no_mans_land,deuce,far,-0.467902,23.511354,2.602446,down the T,In,False,13:27:49,2515.080078,0,,,,,,,,,,,
+298,Player,2,return,Forehand,Topspin,66,98,0,0,service_box,deuce,near,0.799883,11.88,no_mans_land,deuce,near,2.639502,3.160824,1.301594,cross court,Net,False,13:27:51,2516.679932,0,,,,,,,,,,,
+299,Opponent,1,serve,Serve,Flat,46,99,0,0,service_box,ad,near,-0.746249,7.408824,no_mans_land,ad,far,-0.350367,23.67791,2.435291,down the T,In,False,13:28:11,2537.080078,0,,,,,,,,,,,
+300,Player,2,return,Forehand,Topspin,70,99,0,0,service_box,deuce,far,-0.597058,16.249277,no_mans_land,ad,near,-1.28412,0.316655,1.23283,inside in,In,False,13:28:13,2538.719971,0,,,,,,,,,,,
+301,Opponent,3,serve_plus_one,Forehand,Flat,108,99,0,0,no_mans_land,deuce,near,1.591863,4.229431,no_mans_land,deuce,far,-0.088575,24.350752,1.077756,cross court,In,False,13:28:14,2540.02002,0,,,,,,,,,,,
+302,Player,4,return_plus_one,Forehand,Topspin,67,99,0,0,service_box,ad,far,0.010468,15.946299,no_mans_land,deuce,near,1.657324,0.37913,0.807534,down the line,In,False,13:28:15,2540.919922,0,,,,,,,,,,,
+303,Opponent,5,in_play,FH Volley,Flat,32,99,0,0,service_box,ad,near,-0.52375,5.496434,service_box,ad,far,0.010468,17.155087,1.04379,cross court,In,False,13:28:16,2541.879883,0,,,,,,,,,,,
+304,Player,6,in_play,Backhand,Flat,86,99,0,0,service_box,deuce,near,0.578634,11.88,no_mans_land,ad,near,-0.822148,2.476965,0.69046,down the line,Net,False,13:28:17,2543.0,0,,,,,,,,,,,
+305,Player,0,none,FH Volley,Flat,39,100,0,0,no_mans_land,deuce,far,-0.509383,19.881002,no_mans_land,deuce,near,0.933271,2.826782,2.527541,cross court,In,False,13:29:53,2638.899902,1,,,,,,,,,,,
+306,Player,1,serve,Serve,Flat,39,101,0,0,service_box,deuce,far,-0.421262,11.88,no_mans_land,deuce,far,-1.304873,24.749941,2.490512,down the T,Net,False,13:30:11,2656.780029,-1,,,,,,,,,,,swapped srv
+307,Opponent,0,return,Backhand,Flat,65,101,0,0,out,ad_alley,far,4.722215,24.113325,no_mans_land,ad,near,-0.21202,0.580836,0.798875,down the line,Out,False,13:30:14,2659.540039,-1,,,,,,,,,,,swapped srv
+308,Player,1,serve,Serve,Flat,117,102,0,0,service_box,deuce,near,2.108091,5.996119,no_mans_land,deuce,far,-0.995042,23.147453,2.478518,down the T,In,False,13:30:23,2668.860107,0,,,,,,,,,,,swapped srv
+309,Opponent,2,return,Forehand,Topspin,64,102,0,0,service_box,ad,far,0.961373,15.326625,no_mans_land,deuce,near,2.926717,0.610663,1.16994,down the line,In,False,13:30:24,2669.780029,0,,,,,,,,,,,swapped srv
+310,Player,3,serve_plus_one,Backhand,Topspin,104,102,0,0,no_mans_land,deuce,near,1.355648,3.788183,no_mans_land,ad,far,0.891881,24.909325,1.044275,down the line,In,False,13:30:26,2671.280029,0,,,,,,,,,,,swapped srv
+311,Opponent,4,return_plus_one,Forehand,Topspin,91,102,0,0,no_mans_land,ad,far,2.772567,19.984102,no_mans_land,deuce,near,1.536588,0.061402,0.755501,down the line,In,False,13:30:27,2672.379883,0,,,,,,,,,,,swapped srv
+312,Opponent,0,none,Forehand,Flat,51,104,0,0,no_mans_land,ad,near,-0.169806,3.903444,service_box,ad,far,0.216128,18.555555,2.459162,inside out,In,False,13:30:50,2695.300049,0,,,,,,,,,,,cancelled
+313,Opponent,0,none,Forehand,Topspin,108,104,0,0,service_box,ad,far,0.217537,11.88,service_box,ad,far,0.421527,14.778873,0.937353,inside out,Net,False,13:30:52,2697.780029,0,,,,,,,,,,,cancelled
+314,Opponent,0,none,Backhand,Topspin,72,105,0,0,no_mans_land,deuce,near,0.744279,4.22403,service_box,ad,far,0.272034,16.034595,1.923597,down the line,In,False,13:31:00,2705.379883,0,,,,,,,,,,,invalid
+315,Player,-1,none,Forehand,Topspin,63,105,0,0,no_mans_land,ad,far,0.832158,19.259665,out,deuce,near,1.950348,-0.934763,1.439364,down the line,In,False,13:31:02,2707.379883,0,,,,,,,,,,,invalid
+316,Opponent,-2,none,Backhand,Topspin,65,105,0,0,no_mans_land,ad,near,-0.001172,3.267098,no_mans_land,ad,far,0.832158,20.468452,1.42486,cross court,In,False,13:31:03,2708.679932,0,,,,,,,,,,,invalid
+317,Player,-3,none,Forehand,Flat,59,105,0,0,no_mans_land,ad,far,0.76655,19.787546,no_mans_land,ad,near,-0.101287,1.023406,1.531415,inside out,In,False,13:31:04,2709.840088,0,,,,,,,,,,,invalid
+318,Opponent,-4,none,Backhand,Topspin,54,105,0,0,out,ad,far,0.578875,11.88,no_mans_land,ad,far,0.953205,20.528013,1.189961,cross court,Net,False,13:31:06,2712.080078,0,,,,,,,,,,,invalid
+319,Opponent,-5,none,Backhand,Topspin,91,105,0,0,no_mans_land,deuce,near,1.433042,2.89704,no_mans_land,ad,far,1.341876,18.169607,1.804581,down the line,In,False,13:31:10,2715.379883,0,,,,,,,,,,,invalid
+320,Opponent,0,none,Backhand,Topspin,83,106,0,0,out,ad,far,0.025739,11.88,service_box,ad,far,0.034486,19.007269,1.451358,cross court,Net,False,13:31:16,2721.780029,1,,,,,,,,,,,
+321,Player,1,serve,Serve,Flat,45,107,0,0,service_box,deuce,near,3.488818,7.993216,no_mans_land,deuce,far,-1.471628,23.935549,2.667819,out wide,In,False,13:31:26,2731.780029,1,,,,,,,,,,,swapped srv
+322,Opponent,2,return,Forehand,Flat,91,107,0,0,out,deuce,far,-0.993035,24.100798,no_mans_land,deuce_alley,near,5.095131,-0.080325,1.180613,down the line,Out,False,13:31:28,2733.560059,1,,,,,,,,,,,swapped srv
+323,Player,1,serve,Serve,Flat,112,108,0,0,service_box,ad,near,-3.465241,5.901061,no_mans_land,ad,far,0.477389,23.422766,2.2692,out wide,In,False,13:31:46,2751.840088,1,,,,,,,,,,,swapped srv
+324,Opponent,2,return,Backhand,Flat,82,108,0,0,no_mans_land,deuce,far,-0.384836,19.608574,out,ad_alley,near,-4.775852,-0.901222,0.922647,down the line,In,False,13:31:47,2752.52002,1,,,,,,,,,,,swapped srv
+325,Player,3,serve_plus_one,Forehand,Topspin,94,108,0,0,no_mans_land,ad,near,-3.458777,3.822635,out,deuce,far,-0.135245,25.14229,1.144034,down the line,In,False,13:31:49,2754.179932,1,,,,,,,,,,,swapped srv
+326,Player,1,serve,Serve,Flat,151,109,0,0,service_box,deuce,near,4.61,5.72,out,deuce,far,-1.07,25.01,2.498735,out wide,Out,False,13:32:08,2774.100098,-1,In,3.976869,5.721681,-1.06707,25.010122,Out,4.61,5.72,-1.07,25.01,swapped srv
+327,Player,0,none,Forehand,Flat,98,110,0,0,no_mans_land,ad,near,-0.078652,11.88,no_mans_land,deuce_alley,near,5.394258,-0.31727,1.212021,down the line,Net,False,13:32:09,2774.959961,0,,,,,,,,,,,
+328,Player,1,serve,Serve,Flat,79,111,0,0,service_box,deuce,near,1.602433,6.211283,no_mans_land,deuce,far,-1.136984,24.22542,2.741433,down the T,In,False,13:32:20,2785.580078,0,,,,,,,,,,,swapped srv
+329,Opponent,2,return,Forehand,Topspin,72,111,0,0,service_box,ad,far,1.647503,12.979179,out,deuce,near,3.220179,-0.894961,1.152179,down the line,In,False,13:32:21,2786.860107,0,,,,,,,,,,,swapped srv
+330,Player,3,serve_plus_one,Backhand,Topspin,96,111,0,0,no_mans_land,ad,near,-1.429904,4.225862,out,ad,far,1.238069,25.08415,0.991829,cross court,In,False,13:32:23,2788.379883,0,,,,,,,,,,,swapped srv
+331,Opponent,4,return_plus_one,Backhand,Flat,77,111,0,0,no_mans_land,ad,far,0.452516,20.31072,no_mans_land,ad,near,-2.065338,-0.31067,0.956076,cross court,In,False,13:32:24,2789.560059,0,,,,,,,,,,,swapped srv
+332,Player,5,in_play,Backhand,Topspin,107,111,0,0,no_mans_land,ad,near,-2.410204,4.141729,out,ad,far,1.032133,25.542025,1.133642,cross court,In,False,13:32:25,2790.97998,0,,,,,,,,,,,swapped srv
+333,Opponent,6,in_play,Backhand,Topspin,86,111,0,0,no_mans_land,ad,far,0.688242,19.636023,no_mans_land,ad,near,-2.551013,0.026924,0.745855,cross court,In,False,13:32:26,2792.02002,0,,,,,,,,,,,swapped srv
+334,Player,7,in_play,Backhand,Topspin,92,111,0,0,no_mans_land,ad,near,-4.61,1.22,out,ad,far,1.39,25.32,0.945251,cross court,Out,False,13:32:28,2793.280029,0,In,-3.221537,1.22331,1.385654,25.315596,Out,-4.61,1.22,1.39,25.32,swapped srv
+335,Player,1,serve,Serve,Flat,117,112,0,0,service_box,ad,near,0.5,6.75,out,ad,far,1.28,23.48,2.114636,down the T,Out,False,13:32:59,2824.76001,-1,In,-0.281405,6.752311,1.276062,23.477261,Out,0.5,6.75,1.28,23.48,swapped srv
+336,Opponent,0,return,Forehand,Topspin,76,112,0,0,no_mans_land,ad,near,-2.975758,11.88,out,ad,near,-1.06091,-0.602914,0.886721,inside out,Net,False,13:33:00,2825.780029,-1,,,,,,,,,,,swapped srv
+337,Player,1,serve,Serve,Flat,128,113,0,0,service_box,ad,near,-2.872786,6.31295,no_mans_land,ad,far,0.869685,23.508049,2.346056,out wide,In,False,13:33:18,2843.379883,1,,,,,,,,,,,swapped srv
+338,Opponent,2,return,Backhand,Flat,81,113,0,0,service_box,ad,far,2.598112,16.706305,out,ad,near,-4.098556,-1.001288,0.928117,cross court,In,False,13:33:18,2844.100098,1,,,,,,,,,,,swapped srv
+339,Player,3,serve_plus_one,Backhand,Topspin,105,113,0,0,no_mans_land,deuce,near,0.454242,4.358317,no_mans_land,ad,far,4.103446,24.168135,1.003287,down the line,In,False,13:33:20,2845.47998,1,,,,,,,,,,,swapped srv
+340,Opponent,4,return_plus_one,Forehand,Topspin,87,113,0,0,service_box,ad,near,-1.25738,11.88,no_mans_land,ad,near,-0.37717,-0.28961,0.914979,inside out,Net,False,13:33:21,2846.560059,1,,,,,,,,,,,swapped srv
+341,Player,1,serve,Serve,Flat,50,114,0,0,no_mans_land,deuce,near,0.727296,5.080294,no_mans_land,deuce,far,-1.246991,22.748619,2.561559,down the T,Out,False,13:33:42,2867.97998,1,,,,,,,,,,,swapped srv
+342,Opponent,2,return,Backhand,Flat,59,114,0,0,no_mans_land,ad,far,1.477107,20.378336,no_mans_land,deuce,near,0.946065,0.400109,0.953578,inside in,In,False,13:33:44,2869.580078,1,,,,,,,,,,,swapped srv
+343,Player,3,serve_plus_one,Backhand,Topspin,69,114,0,0,no_mans_land,ad,near,-3.17467,4.472278,no_mans_land,ad,far,1.466021,24.739561,1.240537,cross court,In,False,13:33:46,2871.580078,1,,,,,,,,,,,swapped srv
+344,Opponent,4,return_plus_one,Backhand,Slice,68,114,0,0,out,deuce_alley,far,-4.581848,25.757765,out,ad_alley,near,-4.531945,-1.062654,0.657374,down the line,Out,False,13:33:47,2872.679932,1,,,,,,,,,,,swapped srv
+345,Player,0,none,Forehand,Flat,101,115,0,0,out,ad,far,0.138558,24.017235,no_mans_land,deuce,near,0.361931,1.137605,1.914664,down the line,Out,False,13:33:57,2883.040039,0,,,,,,,,,,,
+346,Player,1,serve,Serve,Slice,185,116,0,0,no_mans_land,ad,near,-3.87,5.98,no_mans_land,ad,far,0.78,23.5,2.409525,out wide,In,False,13:34:08,2893.47998,1,Out,-3.873792,3.675335,0.779009,23.496885,In,-3.87,5.98,0.78,23.5,swapped srv
+347,Opponent,1,serve,Serve,Slice,120,118,0,0,service_box,deuce,far,-0.751203,15.304464,no_mans_land,deuce,near,0.486293,0.427212,2.336339,down the T,In,False,13:37:02,3067.620117,1,,,,,,,,,,,swapped srv
+348,Player,2,return,Backhand,Flat,91,118,0,0,service_box,ad,near,-0.470551,6.029201,no_mans_land,deuce,far,-1.734574,24.072906,1.500128,inside in,In,False,13:37:03,3068.419922,1,,,,,,,,,,,swapped srv
+349,Opponent,3,serve_plus_one,Forehand,Flat,70,118,0,0,service_box,ad,far,1.627895,16.689552,no_mans_land,ad,near,-0.534171,0.887889,0.805561,inside out,In,False,13:37:04,3069.320068,1,,,,,,,,,,,swapped srv
+350,Player,4,return_plus_one,Backhand,Topspin,101,118,0,0,no_mans_land,ad,near,-3.565858,3.112114,out,ad,far,2.335441,25.496531,0.911607,cross court,In,False,13:37:05,3070.780029,1,,,,,,,,,,,swapped srv
+351,Opponent,1,serve,Serve,Slice,127,119,0,0,service_box,deuce,far,-0.121876,17.301119,no_mans_land,ad,near,-0.366943,0.030172,2.429673,down the T,Out,False,13:37:27,3092.560059,-2,,,,,,,,,,,swapped srv
+352,Opponent,1,serve,Serve,Kick,105,120,0,0,service_box,ad,far,2.419378,15.320259,out,ad,near,-0.165135,-1.002688,2.472547,out wide,In,False,13:37:39,3104.320068,1,,,,,,,,,,,swapped srv
+353,Player,2,return,Backhand,Topspin,82,120,0,0,no_mans_land,ad,near,-2.057564,3.362699,no_mans_land,ad_alley,far,4.319143,24.164608,1.282087,down the line,In,False,13:37:40,3105.379883,1,,,,,,,,,,,swapped srv
+354,Opponent,3,serve_plus_one,Backhand,Flat,74,120,0,0,no_mans_land,deuce,far,-0.155253,19.084677,no_mans_land,ad,near,-2.616068,-0.26484,0.600158,down the line,In,False,13:37:41,3106.560059,1,,,,,,,,,,,swapped srv
+355,Player,4,return_plus_one,Forehand,Topspin,82,120,0,0,no_mans_land,ad,near,-3.759998,2.820283,out,ad,far,0.171294,25.923595,0.922059,inside out,In,False,13:37:42,3107.97998,1,,,,,,,,,,,swapped srv
+356,Player,0,serve,Serve,Slice,130,121,0,0,service_box,deuce,near,0.277721,11.88,service_box,ad,near,0.227656,0.393609,1.955673,down the T,Net,False,13:37:54,3119.699951,0,,,,,,,,,,,cancelled
+357,Player,0,return,Forehand,Topspin,55,121,0,0,service_box,deuce,far,-0.182917,13.316172,no_mans_land,deuce,near,0.170472,-0.08317,1.256216,cross court,In,False,13:37:54,3119.719971,0,,,,,,,,,,,cancelled
+358,Opponent,1,serve,Serve,Flat,112,122,0,0,service_box,deuce,far,0.5,15.25,no_mans_land,deuce,near,0.46,1.38,2.455828,down the T,Out,False,13:38:10,3135.52002,-2,In,-0.383497,15.25123,0.460619,1.375637,Out,0.5,15.25,0.46,1.38,swapped srv
+359,Opponent,0,none,Backhand,Slice,95,123,0,0,no_mans_land,deuce,near,0.52738,0.855139,out,deuce,far,-1.568674,25.997339,1.545002,inside out,In,False,13:38:11,3136.47998,0,,,,,,,,,,,
+360,Opponent,1,serve,Serve,Kick,137,124,0,0,service_box,deuce,far,-0.521696,16.675667,no_mans_land,deuce,near,0.52738,0.329892,2.541659,down the T,In,False,13:38:21,3146.280029,1,,,,,,,,,,,swapped srv
+361,Player,2,return,Backhand,Topspin,107,124,0,0,service_box,deuce,near,0.324151,5.760313,no_mans_land,deuce,far,-1.326661,24.630611,1.233869,inside out,In,False,13:38:22,3147.179932,1,,,,,,,,,,,swapped srv
+362,Opponent,3,serve_plus_one,Forehand,Topspin,83,124,0,0,no_mans_land,ad,far,4.61,21.76,no_mans_land,deuce,near,0.38,0.73,0.864951,down the line,Out,False,13:38:22,3148.080078,1,In,2.669322,21.75634,0.38019,0.733438,Out,4.61,21.76,0.38,0.73,swapped srv
+363,Player,0,return_plus_one,Backhand,Topspin,74,124,0,0,no_mans_land,ad,near,-0.426543,4.164776,out,ad,far,2.57441,25.271439,0.927459,cross court,In,False,13:38:24,3149.280029,1,,,,,,,,,,,swapped srv
+364,Opponent,0,in_play,Forehand,Flat,83,124,0,0,service_box,ad,near,-2.120893,11.88,no_mans_land,ad,near,-1.423066,-0.132761,1.008499,inside out,Net,False,13:38:25,3150.820068,1,,,,,,,,,,,swapped srv
+365,Opponent,1,serve,Serve,Slice,131,125,0,0,service_box,ad_alley,far,5.162568,14.637194,out,ad,near,-0.058475,-0.920894,2.499879,out wide,Out,False,13:38:53,3178.620117,-2,,,,,,,,,,,swapped srv
+366,Opponent,1,serve,Serve,Slice,102,126,0,0,service_box,ad,far,2.004824,13.944475,no_mans_land,ad,near,-0.152242,1.47143,2.376161,out wide,In,False,13:39:05,3190.419922,1,,,,,,,,,,,swapped srv
+367,Player,2,return,Backhand,Topspin,81,126,0,0,no_mans_land,deuce,near,1.870523,3.720146,no_mans_land,ad,far,3.803747,24.838205,1.456594,down the line,In,False,13:39:06,3191.379883,1,,,,,,,,,,,swapped srv
+368,Opponent,3,serve_plus_one,Forehand,Topspin,84,126,0,0,no_mans_land,ad_alley,far,4.260752,18.536184,no_mans_land,ad,near,-0.485051,-0.219251,0.943678,inside in,Out,False,13:39:07,3192.419922,1,,,,,,,,,,,swapped srv
+369,Opponent,0,none,Backhand,Topspin,102,127,0,0,service_box,deuce,near,0.259237,5.797314,service_box,ad,far,0.529927,19.032391,1.598419,down the line,In,False,13:39:31,3216.97998,0,,,,,,,,,,,cancelled
+370,Opponent,0,none,Backhand,Topspin,79,127,0,0,service_box,ad,near,-0.620502,6.064915,service_box,deuce,far,-0.049298,16.369965,1.505803,inside in,In,False,13:39:33,3219.080078,0,,,,,,,,,,,cancelled
+371,Player,0,none,Forehand,Topspin,49,128,0,0,no_mans_land,ad,far,0.263618,18.510109,no_mans_land,ad,near,-0.282589,1.570114,1.587032,inside out,In,False,13:39:38,3223.580078,1,,,,,,,,,,,cancelled
+372,Opponent,0,none,Backhand,Topspin,55,128,0,0,no_mans_land,ad,near,-1.768777,3.09057,no_mans_land,deuce,far,-1.515063,20.8179,1.062638,inside in,In,False,13:39:41,3226.879883,1,,,,,,,,,,,cancelled
+373,Player,0,none,Forehand,Topspin,69,128,0,0,no_mans_land,ad,near,-2.074601,11.88,no_mans_land,ad,near,-1.768777,2.565323,1.131407,inside out,Net,False,13:39:43,3228.179932,1,,,,,,,,,,,cancelled
+374,Player,0,none,Forehand,Topspin,50,128,0,0,no_mans_land,ad,near,-1.306334,11.88,no_mans_land,ad,near,-2.091669,2.759728,1.377396,inside out,Net,False,13:39:45,3230.580078,1,,,,,,,,,,,cancelled
+375,Player,1,serve,Serve,Flat,109,129,0,0,service_box,deuce,far,-0.269148,14.290567,no_mans_land,deuce,near,0.711287,0.431355,2.396988,down the T,In,False,13:39:54,3239.879883,1,,,,,,,,,,,
+376,Opponent,0,none,Backhand,Topspin,110,130,0,0,no_mans_land,ad,near,-1.190182,1.085246,out,deuce,far,-1.6972,25.736166,1.448172,inside in,In,False,13:39:55,3240.879883,0,,,,,,,,,,,
+377,Player,1,serve,Serve,Flat,110,131,0,0,service_box,deuce,far,-0.516349,15.405533,no_mans_land,ad,near,-1.190182,0.559999,2.516962,down the T,Out,False,13:40:08,3253.47998,0,,,,,,,,,,,
+378,Opponent,2,return,Backhand,Topspin,51,131,0,0,service_box,ad,near,-0.973083,5.778207,no_mans_land,ad_alley,far,5.296638,24.684423,1.122791,down the line,In,False,13:40:09,3254.379883,0,,,,,,,,,,,
+379,Player,3,serve_plus_one,Forehand,Topspin,81,131,0,0,no_mans_land,deuce,far,-2.891432,20.228983,no_mans_land,ad,near,-1.570733,3.989028,1.321563,inside in,In,False,13:40:11,3256.52002,0,,,,,,,,,,,
+380,Opponent,4,return_plus_one,Forehand,Topspin,86,131,0,0,service_box,deuce,near,1.270798,7.108808,out,deuce,far,-4.071808,25.652285,1.109992,cross court,In,False,13:40:12,3257.580078,0,,,,,,,,,,,
+381,Player,5,in_play,FH Volley,Flat,35,131,0,0,service_box,deuce,near,2.862062,11.88,service_box,deuce,near,1.270798,6.583561,0.583439,cross court,Net,False,13:40:13,3258.379883,0,,,,,,,,,,,
+382,Opponent,0,none,Backhand,Topspin,78,132,0,0,no_mans_land,deuce,near,0.36209,0.020118,service_box,ad,far,0.508516,14.98438,2.096113,down the line,In,False,13:40:26,3272.080078,0,,,,,,,,,,,cancelled
+383,Player,0,none,Forehand,Topspin,55,132,0,0,service_box,ad,far,0.920502,18.065271,out,ad,near,-1.063164,-11.580905,3.198058,inside out,In,False,13:40:34,3279.280029,0,,,,,,,,,,,cancelled
+384,Player,1,serve,Serve,Flat,119,133,0,0,service_box,deuce,near,0.460514,11.88,no_mans_land,deuce,near,1.112836,0.359254,2.559736,down the T,Net,False,13:40:37,3283.02002,-1,,,,,,,,,,,
+385,Player,1,serve,Serve,Slice,95,134,0,0,service_box,deuce,far,-0.572332,17.501669,no_mans_land,deuce,near,1.270048,0.529124,2.523265,down the T,In,False,13:40:47,3292.820068,0,,,,,,,,,,,
+386,Opponent,2,return,Forehand,Topspin,72,134,0,0,service_box,ad,near,-1.545143,5.773529,out,deuce,far,-2.944251,25.147947,1.607017,down the line,In,False,13:40:48,3293.97998,0,,,,,,,,,,,
+387,Player,3,serve_plus_one,Backhand,Topspin,89,134,0,0,no_mans_land,ad,far,1.656608,18.68644,out,ad,near,-1.542342,-0.701817,0.603637,cross court,In,False,13:40:50,3295.560059,0,,,,,,,,,,,
+388,Opponent,4,return_plus_one,Backhand,Topspin,114,134,0,0,service_box,ad,near,-0.830796,6.385616,no_mans_land,ad,far,2.772627,24.884819,1.347227,cross court,In,False,13:40:51,3296.879883,0,,,,,,,,,,,
+389,Player,5,in_play,Backhand,Topspin,83,134,0,0,service_box,ad,near,-1.117725,11.88,no_mans_land,ad,near,-2.417197,-0.478584,0.586753,cross court,Net,False,13:40:52,3298.02002,0,,,,,,,,,,,
+390,Player,1,serve,Serve,Flat,118,135,0,0,service_box,ad,far,0.522119,17.691772,no_mans_land,ad,near,-0.943574,-0.21523,2.4814,down the T,In,False,13:41:18,3323.219971,1,,,,,,,,,,,
+391,Opponent,2,return,Forehand,Topspin,64,135,0,0,service_box,ad,far,1.207332,11.88,no_mans_land,ad,far,0.789668,24.029804,1.281148,inside out,Net,False,13:41:18,3323.97998,1,,,,,,,,,,,
+392,Player,1,serve,Serve,Slice,128,136,0,0,service_box,deuce,far,-2.834076,17.652065,no_mans_land,deuce,near,0.936902,-0.126028,2.424762,out wide,In,False,13:41:37,3343.060059,1,,,,,,,,,,,
+393,Opponent,2,return,Forehand,Flat,87,136,0,0,no_mans_land,ad,near,-0.62,-0.5,no_mans_land,deuce_alley,far,-4.61,24.54,0.915122,down the line,Out,False,13:41:38,3343.959961,1,In,-0.622981,2.998289,-4.611576,24.542364,Out,-0.62,-0.5,-4.61,24.54,
+394,Player,0,serve_plus_one,Backhand,Flat,59,136,0,0,service_box,deuce,far,-0.900871,14.688015,no_mans_land,ad,near,-0.240909,0.690524,0.589459,down the line,In,False,13:41:39,3344.959961,1,,,,,,,,,,,
+395,Player,1,serve,Serve,Slice,122,137,0,0,service_box,ad,far,2.791693,16.951559,no_mans_land,ad,near,-0.943078,0.067278,2.46769,out wide,In,False,13:41:57,3362.659912,1,,,,,,,,,,,
+396,Opponent,2,return,Backhand,Topspin,68,137,0,0,service_box,deuce,near,1.234086,6.748926,no_mans_land,ad,far,3.579123,23.566309,1.212293,down the line,In,False,13:41:58,3363.47998,1,,,,,,,,,,,
+397,Player,3,serve_plus_one,Forehand,Topspin,89,137,0,0,no_mans_land,ad,far,2.198305,18.3929,no_mans_land,deuce,near,0.523827,2.65574,0.853802,down the line,In,False,13:41:59,3365.02002,1,,,,,,,,,,,
+398,Opponent,4,return_plus_one,Backhand,Flat,70,137,0,0,service_box,ad,far,1.760688,11.88,out,ad,far,2.912406,25.192013,0.987957,cross court,Net,False,13:42:01,3366.23999,1,,,,,,,,,,,
+399,Player,-1,serve,Serve,Flat,114,138,0,0,service_box,deuce,near,0.904606,11.88,no_mans_land,deuce,near,0.679956,0.252415,2.602955,out wide,Net,False,13:42:38,3403.97998,1,,,,,,,,,,,invalid
+400,Player,0,return,Backhand,Topspin,72,138,0,0,service_box,deuce,far,-1.059658,16.163643,no_mans_land,deuce,near,1.127677,0.145849,0.921335,inside out,In,False,13:42:39,3404.879883,1,,,,,,,,,,,invalid
+401,Opponent,0,serve_plus_one,FH Volley,Flat,28,138,0,0,no_mans_land,ad,near,-1.451045,4.891947,service_box,deuce,far,-1.059658,17.372431,0.891971,down the line,In,False,13:42:40,3405.679932,1,,,,,,,,,,,invalid
+402,Opponent,1,serve,Serve,Flat,47,139,0,0,service_box,deuce,near,0.658533,7.038662,no_mans_land,deuce,far,-0.511762,23.465073,2.501651,down the T,In,False,13:42:53,3418.580078,1,,,,,,,,,,,
+403,Player,2,return,Backhand,Topspin,97,139,0,0,no_mans_land,ad,far,2.083729,22.321278,no_mans_land,deuce,near,0.946538,2.435159,1.172322,inside in,In,False,13:42:55,3420.320068,1,,,,,,,,,,,
+404,Opponent,3,serve_plus_one,Backhand,Topspin,68,139,0,0,no_mans_land,ad_alley,near,-5.005365,3.891286,out,ad,far,1.825182,25.559256,0.828279,down the line,Out,False,13:42:56,3421.580078,1,,,,,,,,,,,
+405,Player,0,return_plus_one,Backhand,Flat,65,139,0,0,no_mans_land,ad,far,1.411515,18.686455,no_mans_land,ad_alley,near,-4.761986,0.05125,0.916398,down the line,In,False,13:42:58,3423.659912,1,,,,,,,,,,,
+406,Opponent,1,serve,Serve,Flat,39,140,0,0,service_box,deuce,far,-0.177986,11.88,no_mans_land,ad,far,-0.38388,23.477261,2.314797,down the T,Net,False,13:43:19,3444.47998,-2,,,,,,,,,,,
+407,Opponent,1,serve,Serve,Flat,115,141,0,0,service_box,ad,near,-3.392184,6.639606,no_mans_land,ad,far,0.232088,24.579329,2.548607,out wide,In,False,13:43:38,3463.23999,1,,,,,,,,,,,
+408,Player,2,return,Backhand,Topspin,79,141,0,0,service_box,ad,far,2.639361,16.525251,no_mans_land,ad,near,-4.096973,0.581844,1.021999,cross court,In,False,13:43:39,3464.26001,1,,,,,,,,,,,
+409,Opponent,3,serve_plus_one,Backhand,Topspin,82,141,0,0,no_mans_land,ad,near,-0.386804,4.840394,no_mans_land,ad,far,3.980848,23.048845,0.950107,cross court,In,False,13:43:40,3465.580078,1,,,,,,,,,,,
+410,Player,4,return_plus_one,Forehand,Topspin,95,141,0,0,no_mans_land,deuce,far,-1.73426,18.371021,out,ad,near,-1.650272,-0.680129,0.821747,inside in,In,False,13:43:41,3466.719971,1,,,,,,,,,,,
+411,Opponent,5,in_play,Forehand,Flat,81,141,0,0,service_box,deuce,near,2.19731,6.192952,out,deuce,far,-2.598883,26.226889,0.769514,cross court,In,False,13:43:42,3467.879883,1,,,,,,,,,,,
+412,Player,6,in_play,Forehand,Topspin,82,141,0,0,no_mans_land,deuce,far,-2.808855,19.126493,no_mans_land,deuce,near,3.314759,0.102877,0.515384,cross court,In,False,13:43:44,3469.560059,1,,,,,,,,,,,
+413,Opponent,7,in_play,Forehand,Flat,85,141,0,0,no_mans_land,ad,near,-1.41496,2.782637,out,deuce_alley,far,-4.945121,25.202147,0.882646,down the line,In,False,13:43:45,3470.919922,1,,,,,,,,,,,
+414,Player,8,in_play,Backhand,Topspin,82,141,0,0,no_mans_land,ad,far,1.142223,19.984102,no_mans_land,ad,near,-0.680314,0.052406,0.809907,cross court,In,False,13:43:46,3472.080078,1,,,,,,,,,,,
+415,Opponent,9,in_play,Backhand,Flat,67,141,0,0,no_mans_land,ad,near,-0.931086,4.681121,out,ad,far,1.426575,25.276468,0.814514,cross court,In,False,13:43:48,3473.540039,1,,,,,,,,,,,
+416,Player,10,in_play,Forehand,Topspin,85,141,0,0,no_mans_land,ad,far,2.879933,19.482353,no_mans_land,ad,near,-0.72982,1.10466,0.886806,inside out,In,False,13:43:50,3475.179932,1,,,,,,,,,,,
+417,Opponent,11,in_play,Backhand,Flat,74,141,0,0,service_box,ad_alley,near,-4.887106,6.239552,no_mans_land,ad,far,3.768142,24.634745,0.901385,down the line,Out,False,13:43:51,3476.399902,1,,,,,,,,,,,
+418,Opponent,1,serve,Serve,Flat,65,142,0,0,service_box,deuce,near,2.831096,5.638124,no_mans_land,deuce,far,-0.846556,22.839193,2.660131,out wide,In,False,13:44:23,3508.679932,1,,,,,,,,,,,
+419,Player,2,return,Forehand,Topspin,80,142,0,0,service_box,deuce,far,-2.672145,17.027287,no_mans_land,deuce_alley,near,4.392549,0.023704,1.32042,down the line,In,False,13:44:24,3510.02002,1,,,,,,,,,,,
+420,Player,0,none,Forehand,Topspin,88,143,0,0,service_box,deuce,far,-0.074254,14.317269,service_box,deuce,near,0.05946,7.881217,1.711172,cross court,In,False,13:44:37,3522.879883,1,,,,,,,,,,,
+421,Opponent,1,serve,Serve,Flat,164,144,0,0,service_box,ad,near,-0.659602,7.722545,no_mans_land,ad,far,0.084613,24.800924,2.496599,down the T,In,False,13:44:48,3533.899902,1,,,,,,,,,,,
+422,Player,2,return,Forehand,Topspin,67,144,0,0,service_box,deuce,far,-2.466912,17.471914,no_mans_land,ad,near,-1.052619,-0.513238,1.152384,inside in,In,False,13:44:49,3534.620117,1,,,,,,,,,,,
+423,Opponent,3,serve_plus_one,Forehand,Topspin,93,144,0,0,no_mans_land,deuce,near,4.61,2.74,no_mans_land,deuce,far,-3.13,23.98,1.213063,cross court,Out,False,13:44:51,3536.179932,1,In,2.591467,2.741751,-3.127863,23.982136,Out,4.61,2.74,-3.13,23.98,
+424,Player,0,return_plus_one,Forehand,Topspin,76,144,0,0,no_mans_land,ad,near,-0.638966,11.88,out,deuce,near,3.568961,-0.881203,1.237622,down the line,Net,False,13:44:52,3537.179932,1,,,,,,,,,,,
+425,Player,1,serve,Serve,Flat,53,145,0,0,no_mans_land,deuce,near,3.43,5.98,no_mans_land,deuce,far,-1.7,24.63,2.654842,out wide,In,False,13:46:41,3646.179932,1,Out,3.432303,5.117196,-1.696742,24.62759,In,3.43,5.98,-1.7,24.63,swapped srv
+426,Opponent,2,return,Forehand,Flat,59,145,0,0,service_box,ad_alley,far,4.668865,17.32078,no_mans_land,deuce_alley,near,5.00433,0.2531,1.207446,down the line,Out,False,13:46:42,3647.97998,1,,,,,,,,,,,swapped srv
+427,Player,1,serve,Serve,Slice,172,146,0,0,no_mans_land,ad_alley,near,-4.762712,4.137061,no_mans_land,ad,far,0.853482,24.193193,2.178124,out wide,Out,False,13:46:58,3663.47998,-1,,,,,,,,,,,swapped srv
+428,Player,1,serve,Serve,Flat,117,147,0,0,service_box,ad,near,-2.515935,6.420841,service_box,ad,far,-0.065555,23.612988,2.199928,out wide,In,False,13:47:06,3671.679932,0,,,,,,,,,,,swapped srv
+429,Opponent,2,return,Backhand,Flat,74,147,0,0,no_mans_land,ad,far,1.281061,20.856361,no_mans_land,ad,near,-2.848845,1.334555,0.972938,cross court,In,False,13:47:07,3672.560059,0,,,,,,,,,,,swapped srv
+430,Player,3,serve_plus_one,Backhand,Topspin,103,147,0,0,no_mans_land,ad,near,-0.916389,4.475017,no_mans_land,ad,far,1.398832,24.752716,1.163658,cross court,In,False,13:47:08,3673.879883,0,,,,,,,,,,,swapped srv
+431,Opponent,4,return_plus_one,Forehand,Topspin,78,147,0,0,no_mans_land,deuce,far,-3.14083,21.732815,no_mans_land,ad,near,-0.156247,1.5661,0.8898,inside in,In,False,13:47:09,3674.780029,0,,,,,,,,,,,swapped srv
+432,Player,5,in_play,Forehand,Flat,68,147,0,0,service_box,ad,far,0.462187,11.88,out,deuce,far,-3.146902,25.608744,0.930234,down the line,Net,False,13:47:10,3675.959961,0,,,,,,,,,,,swapped srv
+433,Player,0,none,Forehand,Topspin,99,148,0,0,no_mans_land,deuce,far,-1.507027,23.181505,no_mans_land,deuce,near,0.593236,-0.127258,1.012234,cross court,In,False,13:47:21,3686.47998,1,,,,,,,,,,,
+434,Player,1,serve,Serve,Flat,142,149,0,0,service_box,deuce,near,3.619693,5.528296,no_mans_land,deuce,far,-1.507027,24.390293,2.753664,out wide,In,False,13:47:33,3699.080078,1,,,,,,,,,,,swapped srv
+435,Opponent,2,return,Forehand,Flat,66,149,0,0,no_mans_land,ad,far,1.838797,18.574303,no_mans_land,deuce_alley,near,4.982831,0.494333,1.146432,down the line,In,False,13:47:34,3699.919922,1,,,,,,,,,,,swapped srv
+436,Player,3,serve_plus_one,Backhand,Topspin,125,149,0,0,no_mans_land,ad,near,-1.439538,4.193007,no_mans_land,ad,far,1.197203,24.708506,0.931788,cross court,In,False,13:47:36,3701.379883,1,,,,,,,,,,,swapped srv
+437,Player,0,none,Backhand,Topspin,58,150,0,0,service_box,ad,far,0.424004,16.40523,service_box,ad,near,-1.272012,10.652179,1.597018,cross court,In,False,13:47:37,3702.879883,1,,,,,,,,,,,
+438,Player,1,serve,Serve,Flat,152,151,0,0,service_box,ad,near,-0.467876,5.965104,service_box,ad,far,0.424004,23.588198,2.407889,down the T,In,False,13:47:54,3719.879883,1,,,,,,,,,,,swapped srv
+439,Opponent,2,return,Forehand,Flat,60,151,0,0,no_mans_land,deuce,near,1.717927,11.88,no_mans_land,ad,near,-0.904447,0.97137,1.031565,inside in,Net,False,13:47:55,3720.52002,1,,,,,,,,,,,swapped srv
+440,Player,1,serve,Serve,Flat,144,152,0,0,service_box,deuce,near,1.039409,5.540227,out,deuce,far,-1.49476,23.636063,2.458689,down the T,In,False,13:48:11,3736.159912,0,,,,,,,,,,,swapped srv
+441,Opponent,2,return,Backhand,Flat,57,152,0,0,no_mans_land,deuce,far,-1.32822,21.191591,no_mans_land,deuce,near,1.199843,0.974742,1.062926,inside out,In,False,13:48:11,3736.919922,0,,,,,,,,,,,swapped srv
+442,Player,3,serve_plus_one,Forehand,Topspin,105,152,0,0,no_mans_land,deuce,near,1.467118,4.527137,no_mans_land,deuce,far,-1.661005,24.592836,1.129457,cross court,In,False,13:48:13,3738.780029,0,,,,,,,,,,,swapped srv
+443,Opponent,4,return_plus_one,Forehand,Topspin,92,152,0,0,no_mans_land,ad,far,0.340714,18.845884,out,deuce,near,2.088039,-0.912597,0.840867,down the line,In,False,13:48:14,3739.959961,0,,,,,,,,,,,swapped srv
+444,Player,5,in_play,Forehand,Topspin,81,152,0,0,service_box,deuce,far,-1.99193,11.88,no_mans_land,deuce,far,-0.509846,24.799608,1.27129,cross court,Net,False,13:48:16,3741.280029,0,,,,,,,,,,,swapped srv
+445,Player,1,serve,Serve,Flat,146,153,0,0,service_box,deuce,near,0.246246,6.791255,no_mans_land,ad,far,0.85077,22.808943,2.179136,down the T,Out,False,13:48:37,3762.780029,-1,,,,,,,,,,,swapped srv
+446,Player,1,serve,Serve,Flat,57,154,0,0,service_box,ad,near,-0.948285,7.004745,no_mans_land,ad,far,1.010815,24.725605,2.603735,down the T,In,False,13:48:47,3772.280029,1,,,,,,,,,,,swapped srv
+447,Opponent,2,return,Forehand,Flat,74,154,0,0,no_mans_land,ad,far,0.52915,20.313637,no_mans_land,ad,near,-1.392299,1.643434,1.124644,inside out,In,False,13:48:48,3773.820068,1,,,,,,,,,,,swapped srv
+448,Player,3,serve_plus_one,Backhand,Topspin,99,154,0,0,no_mans_land,ad,near,-2.884177,4.600746,out,ad,far,0.643952,25.532187,1.24574,cross court,In,False,13:48:50,3775.179932,1,,,,,,,,,,,swapped srv
+449,Opponent,4,return_plus_one,Backhand,Topspin,87,154,0,0,no_mans_land,ad,far,1.272642,19.881002,no_mans_land,ad,near,-4.071634,-0.503015,0.904212,cross court,In,False,13:48:51,3776.459961,1,,,,,,,,,,,swapped srv
+450,Player,5,in_play,Backhand,Topspin,98,154,0,0,no_mans_land,ad,near,-2.549247,2.779069,out,ad,far,2.638129,25.768862,1.048477,cross court,In,False,13:48:52,3777.780029,1,,,,,,,,,,,swapped srv
+451,Opponent,6,in_play,Backhand,Flat,62,154,0,0,no_mans_land,ad,far,1.558011,18.569427,no_mans_land,ad,near,-2.65821,0.556437,0.761265,cross court,In,False,13:48:53,3778.860107,1,,,,,,,,,,,swapped srv
+452,Player,7,in_play,Backhand,Topspin,109,154,0,0,no_mans_land,ad,near,-3.153945,4.662287,out,ad,far,2.794201,25.421598,1.126637,cross court,In,False,13:48:55,3780.580078,1,,,,,,,,,,,swapped srv
+453,Player,0,none,Forehand,Slice,74,155,0,0,no_mans_land,ad,far,0.024571,19.89996,out,ad,near,-0.269338,-0.609792,1.543444,inside out,In,False,13:49:34,3820.120117,1,,,,,,,,,,,
+454,Opponent,1,serve,Serve,Slice,131,156,0,0,service_box,deuce,far,0.5,17.1,no_mans_land,deuce,near,0.62,0.01,2.521525,down the T,Out,False,13:49:38,3824.0,-2,In,-0.982728,17.100048,0.623046,0.013838,Out,0.5,17.1,0.62,0.01,swapped srv
+455,Player,0,return,Backhand,Topspin,88,156,0,0,no_mans_land,ad,near,-1.327633,5.375818,no_mans_land,deuce,far,-1.716379,24.613377,1.197056,inside in,In,False,13:49:39,3824.780029,-2,,,,,,,,,,,swapped srv
+456,Opponent,1,serve,Serve,Slice,127,157,0,0,service_box,deuce,far,-1.540826,16.242527,no_mans_land,deuce,near,0.506851,0.521061,2.472096,down the T,In,False,13:49:49,3834.560059,0,,,,,,,,,,,swapped srv
+457,Player,2,return,Backhand,Topspin,101,157,0,0,service_box,ad,near,-0.782232,6.963569,no_mans_land,deuce,far,-2.663775,24.162083,1.416551,inside in,In,False,13:49:50,3835.47998,0,,,,,,,,,,,swapped srv
+458,Opponent,3,serve_plus_one,Forehand,Topspin,77,157,0,0,no_mans_land,ad,far,1.980587,18.365616,no_mans_land,ad,near,-0.62471,1.26733,0.874495,inside out,In,False,13:49:51,3836.459961,0,,,,,,,,,,,swapped srv
+459,Player,4,return_plus_one,Backhand,Flat,77,157,0,0,no_mans_land,deuce_alley,near,4.89392,2.521696,no_mans_land,ad_alley,far,4.115848,23.236959,1.366765,down the line,Out,False,13:49:52,3837.939941,0,,,,,,,,,,,swapped srv
+460,Opponent,1,serve,Serve,Slice,115,158,0,0,service_box,ad,far,-0.5,16.15,no_mans_land,ad,near,-0.35,1.22,2.55361,down the T,Out,False,13:50:18,3864.100098,-2,In,0.113321,16.147907,-0.348843,1.224406,Out,-0.5,16.15,-0.35,1.22,swapped srv
+461,Player,0,return,Forehand,Slice,51,158,0,0,no_mans_land,deuce,near,0.330411,4.31346,out,ad,far,0.548739,25.146423,2.966876,inside in,In,False,13:50:19,3865.080078,-2,,,,,,,,,,,swapped srv
+462,Opponent,1,serve,Serve,Kick,122,159,0,0,service_box,ad,far,4.61,16.62,no_mans_land,ad,near,-0.48,0.21,2.649729,out wide,Out,False,13:50:39,3884.399902,-2,In,3.095777,16.61607,-0.483112,0.20837,Out,4.61,16.62,-0.48,0.21,swapped srv
+463,Player,0,return,Backhand,Topspin,94,159,0,0,no_mans_land,ad,near,-1.240845,3.933801,no_mans_land,ad_alley,far,4.506264,23.751625,1.366288,down the line,In,False,13:50:40,3885.280029,-2,,,,,,,,,,,swapped srv
+464,Player,0,serve_plus_one,Backhand,Slice,65,159,0,0,service_box,ad,near,-3.03434,11.88,no_mans_land,ad,near,-2.210172,0.635793,0.597587,cross court,Net,False,13:50:41,3886.280029,-2,,,,,,,,,,,swapped srv
+465,Opponent,1,serve,Serve,Flat,119,160,0,0,service_box,ad,far,4.61,15.51,no_mans_land,ad,near,-0.27,-0.16,2.496017,out wide,Out,False,13:50:59,3904.899902,-2,In,3.493341,15.509497,-0.266195,-0.162474,Out,4.61,15.51,-0.27,-0.16,swapped srv
+466,Player,0,return,Backhand,Slice,98,160,0,0,out,ad_alley,far,5.160694,11.88,no_mans_land,ad_alley,far,5.160694,24.700409,1.224656,cross court,Net,False,13:51:00,3905.879883,-2,,,,,,,,,,,swapped srv
+467,Opponent,1,serve,Serve,Slice,115,161,0,0,service_box,ad,far,2.694333,16.970911,no_mans_land,ad,near,0.1588,0.335123,2.34093,out wide,In,False,13:51:12,3917.820068,1,,,,,,,,,,,swapped srv
+468,Player,2,return,Backhand,Flat,99,161,0,0,no_mans_land,ad,near,-1.836653,2.303771,no_mans_land,ad,far,3.434496,24.411236,1.354457,cross court,In,False,13:51:13,3918.840088,1,,,,,,,,,,,swapped srv
+469,Opponent,3,serve_plus_one,Backhand,Flat,75,161,0,0,service_box,ad,near,-1.744679,11.88,no_mans_land,ad,near,-2.081393,0.633096,0.206432,cross court,Net,False,13:51:14,3919.719971,1,,,,,,,,,,,swapped srv
+470,Opponent,1,serve,Serve,Slice,119,162,0,0,service_box,deuce,far,-3.19877,17.686905,no_mans_land,deuce,near,0.539817,1.330683,2.430884,out wide,In,False,13:51:37,3942.26001,1,,,,,,,,,,,swapped srv
+471,Player,2,return,Forehand,Topspin,94,162,0,0,no_mans_land,deuce,near,2.283653,2.809502,no_mans_land,deuce_alley,far,-4.947724,24.696451,0.978377,down the line,In,False,13:51:37,3943.080078,1,,,,,,,,,,,swapped srv
+472,Opponent,3,serve_plus_one,Forehand,Flat,51,162,0,0,no_mans_land,ad,far,1.456697,18.311295,no_mans_land,deuce,near,2.73845,1.890087,0.440976,down the line,In,False,13:51:38,3944.02002,1,,,,,,,,,,,swapped srv
+473,Player,4,return_plus_one,Backhand,Topspin,67,162,0,0,no_mans_land,deuce,near,1.830495,4.275915,no_mans_land,ad,far,1.770946,24.105257,1.242597,down the line,In,False,13:51:40,3945.97998,1,,,,,,,,,,,swapped srv
+474,Opponent,1,serve,Serve,Slice,111,163,0,0,service_box,deuce,near,2.771416,11.88,out,ad,near,-0.487898,-0.576077,2.545468,out wide,Net,False,13:52:07,3972.919922,-2,,,,,,,,,,,swapped srv
+475,Opponent,1,serve,Serve,Slice,90,164,0,0,service_box,ad,far,2.5124,16.083605,no_mans_land,ad,near,-0.644315,-0.215746,2.419824,out wide,In,False,13:52:18,3983.899902,1,,,,,,,,,,,swapped srv
+476,Player,2,return,Backhand,Topspin,84,164,0,0,no_mans_land,ad,near,-0.373397,3.762138,no_mans_land,ad,far,3.754872,24.122351,1.500891,cross court,In,False,13:52:19,3984.97998,1,,,,,,,,,,,swapped srv
+477,Opponent,3,serve_plus_one,Forehand,Topspin,72,164,0,0,no_mans_land,ad,far,1.114496,20.455658,out,ad,near,-0.886919,-1.070374,0.771142,inside out,In,False,13:52:20,3986.120117,1,,,,,,,,,,,swapped srv
+478,Player,4,return_plus_one,Backhand,Flat,105,164,0,0,service_box,ad,near,-3.096382,7.374156,out,ad,far,1.003339,25.493303,1.124435,cross court,In,False,13:52:22,3987.73999,1,,,,,,,,,,,swapped srv
+479,Opponent,5,in_play,Backhand,Flat,68,164,0,0,service_box,ad,far,1.860542,15.353834,out,ad,near,-3.823483,-0.909548,0.629304,cross court,In,False,13:52:23,3988.820068,1,,,,,,,,,,,swapped srv
+480,Player,6,in_play,Backhand,Slice,62,164,0,0,no_mans_land,ad,near,-2.693266,3.337511,no_mans_land,ad,far,3.80182,23.957359,0.762523,cross court,In,False,13:52:25,3990.360107,1,,,,,,,,,,,swapped srv
+481,Opponent,7,in_play,Backhand,Topspin,84,164,0,0,no_mans_land,ad,far,4.61,19.29,no_mans_land,ad,near,-3.02,-0.41,0.556263,cross court,Out,False,13:52:26,3991.860107,1,In,3.321128,19.289982,-3.017315,-0.407133,Out,4.61,19.29,-3.02,-0.41,swapped srv
+482,Opponent,1,serve,Serve,Kick,110,165,0,0,service_box,deuce,far,-1.472544,17.045256,no_mans_land,deuce,near,0.442844,0.405825,2.532225,down the T,In,False,13:53:11,4036.919922,0,,,,,,,,,,,swapped srv
+483,Player,2,return,Backhand,Topspin,79,165,0,0,no_mans_land,ad,near,-0.240291,5.312564,no_mans_land,deuce,far,-2.910896,24.840086,1.366612,inside in,In,False,13:53:12,4037.780029,0,,,,,,,,,,,swapped srv
+484,Opponent,3,serve_plus_one,Forehand,Flat,89,165,0,0,no_mans_land,deuce,far,-2.412937,18.457981,no_mans_land,ad,near,-0.205077,0.453174,0.94389,inside in,In,False,13:53:13,4039.060059,0,,,,,,,,,,,swapped srv
+485,Player,4,return_plus_one,Forehand,Flat,106,165,0,0,no_mans_land,ad,near,-0.493431,4.646964,out,deuce,far,-3.440403,25.520542,1.014087,down the line,In,False,13:53:15,4040.379883,0,,,,,,,,,,,swapped srv
+486,Opponent,5,in_play,Forehand,Flat,104,165,0,0,no_mans_land,ad,far,3.432724,22.015209,no_mans_land,ad,near,-0.44752,1.575741,0.818712,inside out,In,False,13:53:16,4041.320068,0,,,,,,,,,,,swapped srv
+487,Opponent,1,serve,Serve,Slice,144,166,0,0,service_box,ad,far,3.101747,15.245242,no_mans_land,ad,near,-0.3865,-0.00281,2.440672,out wide,In,False,13:53:44,4069.159912,0,,,,,,,,,,,swapped srv
+488,Player,2,return,Backhand,Topspin,101,166,0,0,no_mans_land,ad,near,-0.810053,3.286311,no_mans_land,ad_alley,far,4.177265,23.684076,1.115752,down the line,In,False,13:53:44,4069.97998,0,,,,,,,,,,,swapped srv
+489,Opponent,3,serve_plus_one,Forehand,Topspin,57,166,0,0,no_mans_land,ad,far,0.381754,19.309645,no_mans_land,ad,near,-1.289191,1.097739,0.483954,inside out,In,False,13:53:45,4070.879883,0,,,,,,,,,,,swapped srv
+490,Player,4,return_plus_one,Forehand,Topspin,114,166,0,0,no_mans_land,ad,near,-2.581088,3.554296,out,ad,far,0.670275,25.220873,0.92449,inside out,In,False,13:53:47,4072.800049,0,,,,,,,,,,,swapped srv
+491,Opponent,5,in_play,Backhand,Flat,54,166,0,0,service_box,deuce,far,-0.664167,18.25964,out,ad,near,-3.543863,-1.400954,0.524708,down the line,In,False,13:53:48,4073.919922,0,,,,,,,,,,,swapped srv
+492,Player,6,in_play,Overhead,Flat,111,166,0,0,no_mans_land,ad,near,-1.850924,2.982743,service_box,deuce,far,-0.664167,19.468428,1.696367,---,In,False,13:53:50,4075.780029,0,,,,,,,,,,,swapped srv
+493,Opponent,7,in_play,Backhand,Flat,94,166,0,0,no_mans_land,deuce,far,-0.584951,18.308119,out,ad,near,-2.525001,-0.902076,0.726869,down the line,In,False,13:53:51,4076.800049,0,,,,,,,,,,,swapped srv
+494,Player,8,in_play,Forehand,Slice,47,166,0,0,service_box,deuce,far,-1.02926,11.88,no_mans_land,deuce,far,-0.606049,24.72637,0.838945,cross court,Net,False,13:53:52,4077.97998,0,,,,,,,,,,,swapped srv
+495,Player,0,none,Forehand,Flat,87,167,0,0,service_box,ad,near,-0.392467,11.88,service_box,deuce,near,0.358514,8.122414,2.109028,down the line,Net,False,13:54:14,4099.700195,0,,,,,,,,,,,
+496,Player,0,none,Forehand,Topspin,63,168,0,0,service_box,deuce,near,0.486242,11.88,no_mans_land,ad,near,-0.302804,-0.347091,2.027706,inside in,Net,False,13:54:20,4105.279785,0,,,,,,,,,,,
+497,Player,0,none,Feed,Flat,35,169,0,0,service_box,deuce,near,0.184543,11.88,service_box,ad,near,-0.742213,5.901874,1.78665,---,Net,False,13:54:25,4110.879883,0,,,,,,,,,,,cancelled
+498,Player,0,none,Forehand,Topspin,66,169,0,0,service_box,ad,far,0.609171,17.960142,no_mans_land,deuce,near,0.124661,2.577487,1.434456,down the line,In,False,13:54:29,4114.879883,0,,,,,,,,,,,cancelled
+499,Player,0,none,Forehand,Topspin,102,169,0,0,out,ad,far,0.255072,24.718224,no_mans_land,deuce,near,0.124661,2.577487,1.434456,down the line,Out,False,13:54:34,4119.779785,0,,,,,,,,,,,cancelled
+500,Player,1,serve,Serve,Slice,123,170,0,0,service_box,ad,near,-1.29566,11.88,no_mans_land,deuce,near,1.131014,0.181237,2.446301,down the T,Net,False,13:55:46,4191.919922,-1,,,,,,,,,,,
+501,Player,-1,serve,Serve,Slice,97,171,0,0,service_box,deuce,far,-0.399769,16.520752,no_mans_land,deuce,near,0.905295,0.359343,2.46128,down the T,In,False,13:55:55,4200.459961,1,,,,,,,,,,,invalid
+502,Opponent,-2,return,Forehand,Topspin,88,171,0,0,out,ad,near,-2.78,0.5,out,deuce,far,-2.15,25.05,1.379708,down the line,In,False,13:55:56,4201.47998,1,Out,-2.778976,-0.134407,-2.154641,25.049177,In,-2.78,0.5,-2.15,25.05,invalid
+503,Player,-3,serve_plus_one,Backhand,Flat,63,171,0,0,out,ad,far,3.74,23.23,no_mans_land,ad,near,-2.53,-0.28,0.995586,cross court,In,False,13:55:57,4202.720215,1,Out,3.739603686,24.67,-2.53,-0.28,In,3.74,23.23,-2.53,-0.28,invalid
+504,Opponent,0,return_plus_one,Forehand,Flat,111,171,0,0,no_mans_land,deuce_alley,near,4.16226,3.021411,no_mans_land,ad,far,2.895226,21.312346,1.763218,inside in,Out,False,13:56:00,4205.899902,1,,,,,,,,,,,invalid
+505,Player,1,serve,Serve,Slice,115,172,0,0,service_box,ad,far,3.021954,15.967323,no_mans_land,ad,near,-1.155128,0.303178,2.333754,out wide,In,False,13:56:22,4227.660156,1,,,,,,,,,,,
+506,Opponent,2,return,Backhand,Flat,79,172,0,0,service_box,ad,near,-0.400176,7.066178,no_mans_land,ad_alley,far,4.862793,24.268064,1.011496,down the line,In,False,13:56:23,4228.540039,1,,,,,,,,,,,
+507,Player,3,serve_plus_one,Backhand,Topspin,77,172,0,0,no_mans_land,ad,far,0.11169,18.607529,no_mans_land,ad,near,-2.506516,2.007823,0.511464,cross court,In,False,13:56:24,4229.660156,1,,,,,,,,,,,
+508,Opponent,4,return_plus_one,Forehand,Flat,101,172,0,0,no_mans_land,ad,near,-2.457409,3.464642,out,ad,far,1.081661,25.432501,1.095601,inside out,In,False,13:56:25,4230.97998,1,,,,,,,,,,,
+509,Player,5,in_play,Backhand,Topspin,94,172,0,0,no_mans_land,ad,far,2.299072,19.079409,no_mans_land,ad,near,-2.356404,0.370763,0.736151,cross court,In,False,13:56:26,4232.02002,1,,,,,,,,,,,
+510,Opponent,6,in_play,Backhand,Flat,82,172,0,0,no_mans_land,ad,near,-3.176816,3.109651,out,ad,far,3.441549,25.113398,0.886377,cross court,In,False,13:56:27,4233.120117,1,,,,,,,,,,,
+511,Player,7,in_play,Backhand,Topspin,99,172,0,0,no_mans_land,deuce,far,-3.103789,21.22678,out,ad,near,-3.966883,-1.218663,0.606114,down the line,In,False,13:56:29,4234.560059,1,,,,,,,,,,,
+512,Player,1,serve,Serve,Flat,114,173,0,0,service_box,deuce,far,-3.977975,16.569984,no_mans_land,deuce,near,1.08444,0.023123,2.462152,out wide,In,False,13:56:49,4255.02002,1,,,,,,,,,,,
+513,Opponent,2,return,Forehand,Flat,64,173,0,0,no_mans_land,deuce_alley,near,5.27506,3.37295,no_mans_land,deuce_out,far,-5.638383,24.760256,0.973794,down the line,Out,False,13:56:50,4255.819824,1,,,,,,,,,,,
+514,Player,1,serve,Serve,Slice,104,174,0,0,service_box,ad,far,2.708728,14.59734,out,ad,near,-1.237482,-0.713111,2.556842,out wide,In,False,13:57:08,4273.959961,0,,,,,,,,,,,
+515,Opponent,2,return,Backhand,Topspin,82,174,0,0,no_mans_land,deuce,near,1.498587,4.188205,no_mans_land,ad_alley,far,5.152614,24.022131,0.979478,down the line,In,False,13:57:09,4274.779785,0,,,,,,,,,,,
+516,Player,3,serve_plus_one,Forehand,Topspin,89,174,0,0,no_mans_land,ad,far,2.527812,20.175985,no_mans_land,deuce,near,0.590125,-0.132913,0.728263,down the line,In,False,13:57:11,4276.220215,0,,,,,,,,,,,
+517,Opponent,4,return_plus_one,Backhand,Flat,70,174,0,0,service_box,deuce,near,0.719105,5.800497,no_mans_land,ad,far,2.695969,24.422602,1.029411,down the line,In,False,13:57:12,4277.419922,0,,,,,,,,,,,
+518,Player,5,in_play,Forehand,Topspin,75,174,0,0,no_mans_land,ad,far,1.974059,19.414114,no_mans_land,deuce,near,0.543207,0.833081,0.697914,down the line,In,False,13:57:13,4278.660156,0,,,,,,,,,,,
+519,Opponent,6,in_play,Backhand,Flat,114,174,0,0,service_box,ad,near,-1.51541,6.285517,out,ad,far,2.624452,25.250704,1.194876,cross court,In,False,13:57:14,4280.040039,0,,,,,,,,,,,
+520,Player,7,in_play,Backhand,Topspin,65,174,0,0,service_box,ad,far,2.189095,15.910969,no_mans_land,ad,near,-3.005395,0.094699,0.384492,cross court,In,False,13:57:16,4281.180176,0,,,,,,,,,,,
+521,Opponent,8,in_play,Backhand,Flat,100,174,0,0,no_mans_land,deuce,near,2.723669,3.29689,no_mans_land,ad,far,4.031462,24.066885,0.940786,down the line,In,False,13:57:17,4282.700195,0,,,,,,,,,,,
+522,Player,9,in_play,Forehand,Topspin,95,174,0,0,out,deuce,far,-3.370348,24.718224,no_mans_land,deuce,near,2.629535,-0.344902,0.585703,cross court,Out,False,13:57:18,4283.859863,0,,,,,,,,,,,
+523,Player,1,serve,Serve,Slice,114,175,0,0,no_mans_land,deuce,far,-0.932949,18.68644,no_mans_land,deuce,near,1.242065,1.279533,2.461139,down the T,Out,False,13:57:42,4307.419922,-1,,,,,,,,,,,
+524,Player,1,serve,Serve,Slice,107,176,0,0,service_box,deuce,far,-0.564513,15.885137,no_mans_land,deuce,near,0.84454,0.210442,2.504466,down the T,In,False,13:57:53,4318.919922,1,,,,,,,,,,,
+525,Opponent,2,return,Forehand,Flat,94,176,0,0,service_box,ad,near,-0.573414,6.070687,no_mans_land,deuce,far,-2.150679,24.573744,1.548633,down the line,In,False,13:57:54,4320.040039,1,,,,,,,,,,,
+526,Player,3,serve_plus_one,Backhand,Topspin,106,176,0,0,no_mans_land,deuce,far,-3.494298,20.917984,no_mans_land,ad,near,-0.082977,1.148111,0.687898,down the line,In,False,13:57:56,4321.319824,1,,,,,,,,,,,
+527,Player,0,serve,Serve,Slice,120,177,0,0,no_mans_land,deuce,far,-0.668764,21.742405,service_box,ad,near,-0.031003,0.138338,2.130268,down the T,Out,False,13:58:16,4341.580078,0,,,,,,,,,,,cancelled
+528,Opponent,1,serve,Serve,Flat,53,178,0,0,service_box,deuce,near,3.44,4.98,no_mans_land,deuce,far,-0.67,22.95,2.641628,out wide,Out,False,13:58:38,4363.97998,-2,In,3.443637,5.578275,-0.668764,22.951193,Out,3.44,4.98,-0.67,22.95,
+529,Player,0,return,Forehand,Flat,93,178,0,0,no_mans_land,deuce,far,-0.438573,18.66991,no_mans_land,deuce_alley,near,5.146346,0.547543,1.326156,down the line,In,False,13:58:40,4365.52002,-2,,,,,,,,,,,
+530,Opponent,1,serve,Serve,Kick,68,179,0,0,service_box,deuce,near,0.980161,7.48338,no_mans_land,deuce,far,-0.929756,23.717632,2.551712,down the T,In,False,13:58:49,4374.879883,0,,,,,,,,,,,
+531,Player,2,return,Backhand,Topspin,69,179,0,0,out,deuce,far,-0.343183,24.840872,no_mans_land,deuce,near,0.755258,2.481815,1.300679,inside out,Out,False,13:58:50,4376.120117,0,,,,,,,,,,,
+532,Opponent,1,serve,Serve,Flat,162,180,0,0,service_box,ad,near,-3.082613,6.908273,no_mans_land,ad,far,-0.021422,24.436314,2.503919,out wide,In,False,13:59:12,4397.379883,1,,,,,,,,,,,
+533,Player,2,return,Backhand,Flat,67,180,0,0,service_box,ad,far,1.420474,17.03896,out,ad_alley,near,-5.089797,-0.588038,0.94833,down the line,In,False,13:59:12,4398.0,1,,,,,,,,,,,
+534,Opponent,3,serve_plus_one,BH Volley,Flat,39,180,0,0,no_mans_land,deuce_alley,near,5.141512,4.873737,service_box,ad,far,1.420474,18.247747,0.620719,down the line,Out,False,13:59:14,4399.180176,1,,,,,,,,,,,
+535,Opponent,1,serve,Serve,Flat,84,181,0,0,service_box,ad,far,0.592342,11.88,no_mans_land,deuce,far,-1.004614,23.271959,2.797064,down the T,Net,False,13:59:39,4424.97998,-2,,,,,,,,,,,
+536,Opponent,1,serve,Serve,Flat,153,182,0,0,service_box,deuce,near,1.306166,5.972342,no_mans_land,deuce,far,-0.641694,23.600822,2.084557,down the T,In,False,13:59:51,4436.240234,1,,,,,,,,,,,
+537,Player,2,return,Backhand,Topspin,81,182,0,0,no_mans_land,ad,far,1.337594,21.099686,no_mans_land,deuce,near,1.483776,1.969848,1.155693,inside in,In,False,13:59:51,4436.879883,1,,,,,,,,,,,
+538,Opponent,3,serve_plus_one,Backhand,Topspin,73,182,0,0,service_box,deuce,near,0.202671,6.720218,no_mans_land,ad,far,1.024616,23.372786,0.485852,down the line,In,False,13:59:52,4437.97998,1,,,,,,,,,,,
+539,Player,4,return_plus_one,Backhand,Topspin,76,182,0,0,no_mans_land,deuce,far,-2.542427,19.416119,no_mans_land,ad,near,-0.078954,2.968054,0.921808,down the line,In,False,13:59:53,4439.080078,1,,,,,,,,,,,
+540,Opponent,5,in_play,Forehand,Slice,60,182,0,0,no_mans_land,ad,near,-0.18,-0.5,out,deuce,far,-3.43,26.17,0.743645,down the line,Out,False,13:59:55,4440.180176,1,In,-0.178706,3.353138,-3.433007,26.165854,Out,-0.18,-0.5,-3.43,26.17,
+541,Opponent,1,serve,Serve,Flat,51,183,0,0,service_box,ad,near,-0.260256,7.195796,no_mans_land,ad,far,-0.696882,23.439278,2.424119,down the T,In,False,14:00:17,4462.879883,0,,,,,,,,,,,
+542,Opponent,1,serve,Serve,Flat,47,184,0,0,service_box,deuce,near,0.681623,7.140079,no_mans_land,deuce,far,-0.624699,23.667929,2.59408,down the T,In,False,14:00:38,4484.080078,0,,,,,,,,,,,
+543,Opponent,1,serve,Serve,Flat,150,185,0,0,service_box,ad,near,-0.336676,6.555799,no_mans_land,ad,far,0.256622,23.919641,2.325755,down the T,In,False,14:01:00,4505.459961,0,,,,,,,,,,,
+544,Player,0,none,Forehand,Topspin,74,186,0,0,service_box,ad,far,0.565146,16.429287,service_box,deuce,near,2.062929,10.442388,3.095215,down the line,In,False,14:01:12,4518.080078,1,,,,,,,,,,,
+545,Opponent,0,none,Forehand,Topspin,103,187,0,0,service_box,ad,far,0.59893,13.075001,service_box,deuce,near,1.026687,9.672994,1.172774,down the line,In,False,14:02:18,4583.97998,0,,,,,,,,,,,cancelled
+546,Player,0,none,Forehand,Topspin,65,187,0,0,service_box,deuce,near,0.736776,9.176629,service_box,ad,far,0.59893,14.283789,2.28892,inside in,In,False,14:02:19,4584.379883,0,,,,,,,,,,,cancelled
+547,Opponent,0,none,Forehand,Topspin,83,187,0,0,service_box,deuce,far,-0.597344,14.977295,service_box,ad,near,-0.521947,6.748595,1.172574,inside in,In,False,14:02:23,4588.279785,0,,,,,,,,,,,cancelled
+548,Opponent,0,serve,Serve,Slice,152,188,0,0,no_mans_land,deuce,far,-1.89627,23.731152,service_box,deuce,near,0.215694,0.484973,2.394009,down the T,Out,False,14:02:28,4593.680176,-2,,,,,,,,,,,cancelled
+549,Player,1,serve,Serve,Flat,131,189,0,0,service_box,deuce,near,1.259362,5.929314,no_mans_land,deuce,far,-1.89627,24.939939,2.509296,down the T,In,False,14:02:40,4605.379883,1,,,,,,,,,,,
+550,Opponent,2,return,Backhand,Flat,78,189,0,0,no_mans_land,deuce,far,-1.45751,19.126493,no_mans_land,deuce,near,1.716312,-0.517015,0.943906,inside out,In,False,14:02:41,4607.120117,1,,,,,,,,,,,
+551,Player,3,serve_plus_one,Forehand,Flat,103,189,0,0,no_mans_land,ad,near,-3.00858,3.598685,out,deuce,far,-2.439161,25.168512,1.178172,down the line,In,False,14:02:43,4608.560059,1,,,,,,,,,,,
+552,Opponent,4,return_plus_one,Backhand,Flat,56,189,0,0,service_box,ad,far,4.61,16.11,out,ad,near,-3.31,-1.43,0.75241,cross court,Out,False,14:02:44,4609.660156,1,In,2.792449,16.108131,-3.308625,-1.433989,Out,4.61,16.11,-3.31,-1.43,
+553,Player,1,serve,Serve,Flat,131,190,0,0,service_box,deuce,far,-0.698409,11.88,no_mans_land,ad,far,0.511466,24.255102,2.527436,down the T,Net,False,14:03:02,4627.97998,-1,,,,,,,,,,,
+554,Player,1,serve,Serve,Flat,109,191,0,0,no_mans_land,ad,near,-2.83,5.98,no_mans_land,ad,far,0.54,22.59,2.210923,out wide,In,False,14:03:12,4638.120117,1,Out,-2.83158,4.995536,0.538801,22.58564,In,-2.83,5.98,0.54,22.59,
+555,Opponent,2,return,Backhand,Flat,80,191,0,0,no_mans_land,ad,far,4.61,20.32,out,ad,near,-3.82,-1.0,0.765834,cross court,Out,False,14:03:13,4638.939941,1,In,1.448673,20.317398,-3.822387,-0.998309,Out,4.61,20.32,-3.82,-1.0,
+556,Player,1,serve,Serve,Flat,110,193,0,0,service_box,deuce,near,0.491634,6.539545,no_mans_land,deuce,far,-0.827459,23.681963,2.364515,down the T,In,False,14:03:30,4656.080078,1,,,,,,,,,,,
+557,Player,1,serve,Serve,Flat,126,194,0,0,service_box,deuce_alley,far,-4.45878,11.88,no_mans_land,ad,far,0.697484,23.696447,2.318037,out wide,Net,False,14:03:44,4669.319824,-1,,,,,,,,,,,
+558,Player,1,serve,Serve,Slice,104,195,0,0,service_box,ad,near,-0.643888,5.880932,no_mans_land,ad,far,0.549255,24.517672,2.41609,down the T,In,False,14:03:52,4677.5,1,,,,,,,,,,,
+559,Opponent,2,return,Forehand,Flat,68,195,0,0,no_mans_land,ad,far,0.454175,19.345366,no_mans_land,ad,near,-1.112242,-0.154579,0.917488,inside out,In,False,14:03:53,4678.220215,1,,,,,,,,,,,
+560,Player,3,serve_plus_one,Forehand,Flat,96,195,0,0,no_mans_land,deuce,near,1.525239,3.489864,no_mans_land,ad,far,1.496063,24.268629,1.540422,inside in,In,False,14:03:54,4679.819824,1,,,,,,,,,,,
+561,Opponent,4,return_plus_one,Forehand,Topspin,85,195,0,0,service_box,ad,near,-0.281926,11.88,out,deuce,near,1.694612,-0.793481,0.778244,down the line,Net,False,14:03:55,4680.819824,1,,,,,,,,,,,
+562,Opponent,0,none,Backhand,Topspin,51,197,0,0,no_mans_land,deuce,near,0.706743,2.051701,service_box,ad,far,0.182055,16.637714,1.983566,down the line,In,False,14:06:03,4808.580078,0,,,,,,,,,,,
+563,Player,0,serve,Serve,Flat,117,198,0,0,no_mans_land,deuce_alley,far,-4.558315,19.482353,no_mans_land,ad,near,0.208532,0.958335,1.680203,out wide,Out,False,14:07:46,4911.379883,0,,,,,,,,,,,cancelled
