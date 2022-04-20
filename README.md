@@ -1,5 +1,9 @@
 # TennisShots
-Based on Swing Vision (computer vision)  shot by shot data. Manual and semi-automatic correction of the data by using the score evolution (either from Video_correction script or from a Tkinter client app). Analysis of the data with the "shot_analysis" script (under development).
+Based on Swing Vision (computer vision)  shot by shot data.
+
+Manual and semi-automatic correction of the data by using the score evolution (either from Video_correction script or from a Tkinter client app).
+
+Analysis of the data with the "shot_analysis" script (under development).
 
 ## 1 - Collecting data from Swing Vision
 https://swing.tennis/
@@ -31,3 +35,34 @@ The data can be corrected either from
  ![](https://github.com/damienld/TennisShots/blob/main/img/readme/tkinter.png)
 - the "Video_correction" notebook with IWidget and plotly dataviz
  ![](https://github.com/damienld/TennisShots/blob/main/img/readme/video_correction.png)
+
+At this stage, the score and service information have been fully added.
+
+## 3 - Generating Stats
+Some useful data can be manually or semi-automatically added:
+- a Winner/ Unforced Error/ Forced Error stat for each ending shot of each point (the goal would be to make a model to automatically identify this data at one point)
+
+Each point/shot is processed in order to bring some useful data analytics stats:
+- rally length
+- service zones: outside/body/T
+- shot direction : cross/middle/down the line/inside out/inside in/inside middle   
+- pass/dropshot status are added to each shot identified as such
+
+Then an excel file is generated to compile/group the different stats (winners/errors/played/lost/won) for each shot type.
+For example:
+- 1st SERVICE to T (winners/missed/points won/points lost)
+- FH down the line RETURN behind 1st serve (winners/missed/points won/points lost)
+- FH down the line (on serve) between 5-8th shot (winners/missed/points won/points lost)
+- Slice between 5-8th shot (winners/missed/points won/points lost) 
+...
+Also:
+- Points won by rally length 
+
+## 4 - Data Viz
+A notebook "shot_analysis" is under development in order to display some useful dataviz (using plotly).
+A few examples:
+![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis1.png)
+![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis2.png)
+![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis3.png)
+![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis4.png)
+![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis5.png)
