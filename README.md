@@ -66,3 +66,7 @@ A few examples:
 ![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis3.png)
 ![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis4.png)
 ![](https://github.com/damienld/TennisShots/blob/main/img/readme/shot_analysis5.png)
+
+## 6 - Interactive Dashboard
+A Dash interactive dashboard is currently being developped.
+It would allow to visualize/filter specific shot sequences. 
