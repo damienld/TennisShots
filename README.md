@@ -27,9 +27,9 @@ The potential mistakes include:
 - the identification of the players might have been swapped for this point.
 - some missing shots
 
-In order to correct this we use 2 data source:
-- the official score evolution which can check if the result of the point as identified by the shot by data is correct
-- the video
+In order to correct this we use 2 data sources:
+- the official score evolution which can check if the result of the point as identified by swing vision is correct
+- the video (we can easily jump to the end of each point)
 
 The data can be corrected either from
 - a Tkinter client app 
